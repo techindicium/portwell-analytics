@@ -1,0 +1,15 @@
+{
+  "name": "ddlc-delivery-system",
+  "version": "0.1.0",
+  "description": "Agentic Data Development Lifecycle delivery system for the Portwell Assist course fixture. Extended weekly by the track's four groups.",
+  "author": {
+    "name": "Advanced SDLC and harness engineering, DDLC track"
+  },
+  "category": "development",
+  "keywords": [
+    "harness-engineering",
+    "ddlc",
+    "lifecycle",
+    "course-fixture"
+  ]
+}
