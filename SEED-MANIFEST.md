@@ -1,14 +1,18 @@
 # Seed manifest, DDLC track
 
-**Status:** the shell is in place and `make verify` passes. The track's domain material is not
-seeded yet. This file is the specification for that work, written from the workbook's fixture
+**Status:** the shell is in place. The track ships the legacy starting condition only, with no
+lifecycle, no controls, and no process verification, because building those is the four modules'
+work. The track's domain material is not seeded yet. This file is the specification for that work, written from the workbook's fixture
 table and the production notes.
 
 **Audience:** teaching team. Delete this file before handing the repository to participants.
 
 Follow `track-sdlc/` as the worked reference. It shows the shape: a real artifact that runs, a
 contract file, handoffs from other tracks, prose policies that are not enforced, a backlog with
-one wrong item, and visible scenarios that name a case and say what it detects.
+one wrong item, and a `legacy/` record whose paper trail supports an end-to-end Module 1 trace.
+
+Ship no lifecycle artifacts. No state model, no transition script, no hooks, no evidence
+convention, no evaluation set. Those are what the groups build.
 
 ## What the track builds
 
@@ -32,7 +36,8 @@ lineage, and observation. Its primary artifact is a data product, model, metric,
 | `docs/dependencies.md` | What this track promises consumers, and what it verifies about its inputs | The third column is where the gaps live |
 | `docs/backlog.md` | Eight to twelve items, one of which does not apply here | Follow `track-sdlc/docs/backlog.md` |
 | `docs/architecture-rules.md` | Append DDLC rules and the blast-radius table for data surfaces | Destructive transformations are the high-radius case |
-| `scenarios/visible/SC-DDLC-01..06.yaml` | One per family, plus a second adversarial | Each names a real row or metric |
+| `legacy/tracker.csv` | What is in flight, with inconsistent statuses and missing owners | The Module 1 trace starts here |
+| `legacy/incidents/` | `INC-01` and `INC-02` as this track saw them | Each traceable to a control that does not exist |
 
 ## Seeded problems, one per family
 
@@ -53,7 +58,7 @@ key on those strings.
 
 ## Acceptance
 
-- `make verify` passes on a clean clone.
+- `make test` passes on a clean clone, or reports that the track has no tests yet.
 - Every visible scenario names a real fixture row and states what it detects.
 - No seeded problem is listed anywhere in the participant-visible files.
 - The five seeded problems are recorded in `course-shared/heldout/seeded-defects.md`.
