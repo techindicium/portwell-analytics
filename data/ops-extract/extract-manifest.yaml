@@ -1,0 +1,16 @@
+# The extract the analytics team works from.
+#
+# Taken by hand from the operational database. There is no schedule and no automation;
+# somebody runs it when the figures are needed.
+source: portwell_ops
+taken_at: '2026-08-28T09:14:00Z'
+taken_by: P-DEC
+method: manual export
+row_counts:
+  account: 10
+  tier_commitment: 3
+  ticket: 1234
+  interaction: 2468
+  proposal: 533
+notes: >
+  Covers tickets opened before 2026-08-28.

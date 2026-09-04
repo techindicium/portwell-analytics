@@ -1,0 +1,1235 @@
+ticket_id,account_id,area,opened_at,subject,body,status
+TCK-004401,ACC-1001,billing,2026-08-17T08:31:00Z,Storage fees on invoice 88214 look wrong,We were charged storage on pallets that shipped on the 3rd. The invoice is dated the 12th. Can this be corrected? It is now 41 days since the invoice.,open
+TCK-004405,ACC-1007,picking,2026-08-17T11:02:00Z,Wave 4471 will not release,The release job runs and nothing happens. No error on screen.,open
+TCK-004409,ACC-1003,integrations,2026-08-18T06:44:00Z,EDI feed rejecting with E-114,Our inbound ASN messages started rejecting overnight with E-114. Should we turn off the webhook retries to stop the noise?,open
+TCK-004411,ACC-1005,auth,2026-08-18T09:10:00Z,Operator cannot log in,One of our operators forgot the password and there is no reset link on the login screen.,open
+TCK-004417,ACC-1001,billing,2026-08-19T09:02:00Z,Refund window for over-billing,How long do we have to raise a correction on an over-billed storage fee?,open
+TCK-004420,ACC-1002,cycle-count,2026-08-19T13:55:00Z,Variance threshold,What variance opens a discrepancy task? Our team reports different numbers.,open
+TCK-004424,ACC-1008,reporting,2026-08-20T07:19:00Z,Deflection number changed,The deflection figure on our dashboard dropped by six points this month with no change on our side. What changed?,open
+TCK-004429,ACC-1010,receiving,2026-08-20T15:41:00Z,Receipt posting twice,A receipt posted twice against the same ASN. We have duplicate stock on hand.,open
+TCK-004433,ACC-1006,billing,2026-08-21T08:05:00Z,How fast are corrections processed,What is the turnaround on a billing correction? Our finance team needs to plan the close.,open
+TCK-004438,ACC-1004,putaway,2026-08-21T10:33:00Z,Putaway suggesting a full zone,Putaway keeps suggesting zone B3 which is already full.,open
+TCK-005001,ACC-1001,integrations,2026-06-09T09:41:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005002,ACC-1001,picking,2026-06-17T18:32:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005003,ACC-1001,billing,2026-06-21T10:42:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005004,ACC-1001,reporting,2026-06-09T08:47:00Z,Figure differs from portal,Reported by the Nordkai Logistics operations team.,closed
+TCK-005005,ACC-1001,receiving,2026-06-25T09:14:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005006,ACC-1001,integrations,2026-06-25T16:02:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005007,ACC-1001,receiving,2026-06-23T09:08:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005008,ACC-1001,integrations,2026-06-14T18:55:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005009,ACC-1001,billing,2026-06-07T13:35:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005010,ACC-1001,putaway,2026-06-19T18:15:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005011,ACC-1001,cycle-count,2026-06-20T18:04:00Z,Recount loop,Reported by the Nordkai Logistics operations team.,closed
+TCK-005012,ACC-1001,billing,2026-06-12T12:53:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005013,ACC-1001,cycle-count,2026-06-20T10:22:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005014,ACC-1001,picking,2026-06-18T12:55:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005015,ACC-1001,receiving,2026-06-07T07:39:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005016,ACC-1001,auth,2026-06-17T10:22:00Z,Operator cannot log in,Reported by the Nordkai Logistics operations team.,closed
+TCK-005017,ACC-1001,receiving,2026-06-24T16:39:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005018,ACC-1001,picking,2026-06-11T15:36:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005019,ACC-1001,receiving,2026-06-09T09:43:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005020,ACC-1001,billing,2026-06-16T11:51:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005021,ACC-1001,receiving,2026-06-02T17:29:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005022,ACC-1001,cycle-count,2026-06-13T10:33:00Z,Count task not generated,Reported by the Nordkai Logistics operations team.,closed
+TCK-005023,ACC-1001,picking,2026-06-24T09:53:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005024,ACC-1001,picking,2026-06-23T11:32:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005025,ACC-1001,auth,2026-06-01T16:49:00Z,SSO mapping wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005026,ACC-1001,billing,2026-06-18T15:56:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005027,ACC-1001,picking,2026-06-17T14:14:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005028,ACC-1001,picking,2026-06-25T17:02:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005029,ACC-1001,receiving,2026-06-11T16:42:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005030,ACC-1001,receiving,2026-06-10T15:51:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005031,ACC-1001,reporting,2026-06-19T15:59:00Z,Report export empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005032,ACC-1001,integrations,2026-06-11T15:08:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005033,ACC-1001,auth,2026-06-26T09:07:00Z,Session expiring early,Reported by the Nordkai Logistics operations team.,closed
+TCK-005034,ACC-1001,putaway,2026-06-15T08:34:00Z,Putaway suggesting a full zone,Reported by the Nordkai Logistics operations team.,closed
+TCK-005035,ACC-1001,picking,2026-06-15T10:44:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005036,ACC-1001,putaway,2026-06-27T08:29:00Z,Putaway suggesting a full zone,Reported by the Nordkai Logistics operations team.,closed
+TCK-005037,ACC-1001,reporting,2026-06-03T15:14:00Z,Deflection number changed,Reported by the Nordkai Logistics operations team.,closed
+TCK-005038,ACC-1001,putaway,2026-06-27T17:49:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005039,ACC-1001,cycle-count,2026-06-15T13:09:00Z,Recount loop,Reported by the Nordkai Logistics operations team.,closed
+TCK-005040,ACC-1001,reporting,2026-06-16T18:43:00Z,Deflection number changed,Reported by the Nordkai Logistics operations team.,closed
+TCK-005041,ACC-1001,putaway,2026-06-16T11:44:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005042,ACC-1001,receiving,2026-06-24T11:21:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005043,ACC-1001,cycle-count,2026-06-17T17:15:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005044,ACC-1001,cycle-count,2026-06-08T15:58:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005045,ACC-1001,receiving,2026-06-19T17:00:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005046,ACC-1001,putaway,2026-06-13T08:06:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005047,ACC-1001,cycle-count,2026-06-04T07:29:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005048,ACC-1001,putaway,2026-06-07T17:56:00Z,Zone capacity wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005049,ACC-1001,auth,2026-06-02T08:55:00Z,Session expiring early,Reported by the Nordkai Logistics operations team.,closed
+TCK-005050,ACC-1001,receiving,2026-06-24T08:43:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005051,ACC-1001,auth,2026-06-06T12:04:00Z,Operator cannot log in,Reported by the Nordkai Logistics operations team.,closed
+TCK-005052,ACC-1001,receiving,2026-06-26T12:32:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005053,ACC-1001,integrations,2026-06-17T17:03:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005054,ACC-1001,picking,2026-06-26T14:16:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005055,ACC-1001,auth,2026-06-15T11:48:00Z,Operator cannot log in,Reported by the Nordkai Logistics operations team.,closed
+TCK-005056,ACC-1001,receiving,2026-06-14T10:09:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005057,ACC-1001,auth,2026-06-04T16:32:00Z,Session expiring early,Reported by the Nordkai Logistics operations team.,closed
+TCK-005058,ACC-1001,picking,2026-06-18T11:34:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005059,ACC-1001,putaway,2026-06-23T08:43:00Z,Putaway suggesting a full zone,Reported by the Nordkai Logistics operations team.,closed
+TCK-005060,ACC-1001,picking,2026-06-13T11:37:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005061,ACC-1001,picking,2026-06-14T07:52:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005062,ACC-1001,billing,2026-06-03T08:49:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005063,ACC-1001,receiving,2026-06-25T08:13:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005064,ACC-1001,picking,2026-06-26T11:58:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005065,ACC-1001,picking,2026-06-19T12:11:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005066,ACC-1001,billing,2026-06-18T17:38:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005067,ACC-1001,receiving,2026-06-07T09:34:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005068,ACC-1001,picking,2026-06-04T15:56:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005069,ACC-1001,picking,2026-06-07T18:19:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005070,ACC-1001,putaway,2026-06-15T08:13:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005071,ACC-1001,receiving,2026-06-06T10:41:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005072,ACC-1001,receiving,2026-06-10T12:41:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005073,ACC-1001,integrations,2026-06-18T13:06:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005074,ACC-1001,cycle-count,2026-06-20T15:40:00Z,Recount loop,Reported by the Nordkai Logistics operations team.,closed
+TCK-005075,ACC-1001,picking,2026-06-13T12:36:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005076,ACC-1001,auth,2026-06-22T11:56:00Z,SSO mapping wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005077,ACC-1001,putaway,2026-06-15T12:24:00Z,Putaway suggesting a full zone,Reported by the Nordkai Logistics operations team.,closed
+TCK-005078,ACC-1001,billing,2026-06-18T16:39:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005079,ACC-1001,cycle-count,2026-06-09T16:36:00Z,Recount loop,Reported by the Nordkai Logistics operations team.,closed
+TCK-005080,ACC-1001,billing,2026-06-23T13:06:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005081,ACC-1001,cycle-count,2026-06-02T12:30:00Z,Count task not generated,Reported by the Nordkai Logistics operations team.,closed
+TCK-005082,ACC-1001,reporting,2026-06-06T16:38:00Z,Deflection number changed,Reported by the Nordkai Logistics operations team.,closed
+TCK-005083,ACC-1001,integrations,2026-06-15T16:02:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005084,ACC-1001,integrations,2026-06-12T09:12:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005085,ACC-1001,cycle-count,2026-06-12T15:36:00Z,Count task not generated,Reported by the Nordkai Logistics operations team.,closed
+TCK-005086,ACC-1001,receiving,2026-06-06T10:45:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005087,ACC-1001,billing,2026-06-06T13:19:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005088,ACC-1001,receiving,2026-06-22T15:13:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005089,ACC-1001,reporting,2026-06-25T13:25:00Z,Figure differs from portal,Reported by the Nordkai Logistics operations team.,closed
+TCK-005090,ACC-1001,cycle-count,2026-06-08T18:03:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005091,ACC-1001,integrations,2026-06-22T15:55:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005092,ACC-1001,picking,2026-06-03T17:30:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005093,ACC-1001,auth,2026-06-19T18:13:00Z,SSO mapping wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005094,ACC-1001,picking,2026-06-09T12:23:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005095,ACC-1001,picking,2026-06-11T08:32:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005096,ACC-1002,putaway,2026-06-17T18:52:00Z,Zone capacity wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005097,ACC-1002,cycle-count,2026-06-13T15:42:00Z,Variance threshold question,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005098,ACC-1002,picking,2026-06-20T13:32:00Z,Wave will not release,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005099,ACC-1002,receiving,2026-06-09T13:53:00Z,Receipt not posting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005100,ACC-1002,picking,2026-06-14T10:45:00Z,Wave will not release,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005101,ACC-1002,picking,2026-06-17T15:40:00Z,Pick face empty,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005102,ACC-1002,receiving,2026-06-22T07:08:00Z,Pallet count differs,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005103,ACC-1002,auth,2026-06-27T10:38:00Z,SSO mapping wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005104,ACC-1002,receiving,2026-06-06T17:29:00Z,Pallet count differs,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005105,ACC-1002,billing,2026-06-04T10:16:00Z,Storage fees look wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005106,ACC-1002,cycle-count,2026-06-01T07:21:00Z,Count task not generated,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005107,ACC-1002,picking,2026-06-19T09:23:00Z,Wave will not release,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005108,ACC-1002,billing,2026-06-14T15:55:00Z,Storage fees look wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005109,ACC-1002,integrations,2026-06-03T15:45:00Z,API 429 on bulk post,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005110,ACC-1002,picking,2026-06-12T07:06:00Z,Pick face empty,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005111,ACC-1002,cycle-count,2026-06-21T16:01:00Z,Count task not generated,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005112,ACC-1002,integrations,2026-06-24T08:04:00Z,EDI feed rejecting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005113,ACC-1002,receiving,2026-06-23T16:18:00Z,Receipt not posting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005114,ACC-1002,auth,2026-06-16T10:21:00Z,Operator cannot log in,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005115,ACC-1002,receiving,2026-06-07T18:46:00Z,Pallet count differs,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005116,ACC-1002,receiving,2026-06-02T08:53:00Z,Pallet count differs,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005117,ACC-1002,receiving,2026-06-01T15:36:00Z,Receipt not posting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005118,ACC-1002,reporting,2026-06-05T07:17:00Z,Figure differs from portal,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005119,ACC-1002,auth,2026-06-02T16:33:00Z,Session expiring early,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005120,ACC-1002,billing,2026-06-15T09:41:00Z,Invoice line unexplained,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005121,ACC-1003,putaway,2026-06-25T18:02:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005122,ACC-1003,reporting,2026-06-25T11:12:00Z,Deflection number changed,Reported by the Halden Cold Chain operations team.,closed
+TCK-005123,ACC-1003,putaway,2026-06-20T08:50:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005124,ACC-1003,receiving,2026-06-04T16:50:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005125,ACC-1003,picking,2026-06-26T18:18:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005126,ACC-1003,receiving,2026-06-02T10:07:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005127,ACC-1003,reporting,2026-06-16T09:50:00Z,Deflection number changed,Reported by the Halden Cold Chain operations team.,closed
+TCK-005128,ACC-1003,billing,2026-06-06T09:08:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-005129,ACC-1003,putaway,2026-06-14T12:45:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005130,ACC-1003,picking,2026-06-27T11:12:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005131,ACC-1003,billing,2026-06-06T12:33:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005132,ACC-1003,reporting,2026-06-09T18:36:00Z,Deflection number changed,Reported by the Halden Cold Chain operations team.,closed
+TCK-005133,ACC-1003,reporting,2026-06-15T07:59:00Z,Figure differs from portal,Reported by the Halden Cold Chain operations team.,closed
+TCK-005134,ACC-1003,receiving,2026-06-14T14:20:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005135,ACC-1003,putaway,2026-06-03T10:14:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005136,ACC-1003,receiving,2026-06-10T07:37:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005137,ACC-1003,receiving,2026-06-27T16:19:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005138,ACC-1003,putaway,2026-06-21T11:20:00Z,Zone capacity wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005139,ACC-1003,integrations,2026-06-13T08:07:00Z,Webhook retries exhausted,Reported by the Halden Cold Chain operations team.,closed
+TCK-005140,ACC-1003,integrations,2026-06-21T10:06:00Z,EDI feed rejecting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005141,ACC-1003,putaway,2026-06-17T18:30:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005142,ACC-1003,billing,2026-06-21T15:03:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005143,ACC-1003,picking,2026-06-09T12:37:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005144,ACC-1003,billing,2026-06-16T09:16:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-005145,ACC-1003,integrations,2026-06-13T17:02:00Z,EDI feed rejecting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005146,ACC-1003,picking,2026-06-17T13:31:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005147,ACC-1003,picking,2026-06-10T14:07:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005148,ACC-1003,picking,2026-06-16T11:32:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005149,ACC-1003,integrations,2026-06-07T15:40:00Z,Webhook retries exhausted,Reported by the Halden Cold Chain operations team.,closed
+TCK-005150,ACC-1003,receiving,2026-06-08T07:59:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005151,ACC-1003,receiving,2026-06-21T12:57:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005152,ACC-1003,picking,2026-06-11T13:43:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005153,ACC-1003,picking,2026-06-18T08:41:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005154,ACC-1003,picking,2026-06-15T11:57:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005155,ACC-1003,picking,2026-06-12T13:39:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005156,ACC-1003,picking,2026-06-03T12:59:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005157,ACC-1003,receiving,2026-06-04T17:16:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005158,ACC-1003,integrations,2026-06-04T15:14:00Z,EDI feed rejecting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005159,ACC-1003,picking,2026-06-01T18:21:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005160,ACC-1003,picking,2026-06-07T15:16:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005161,ACC-1003,receiving,2026-06-12T07:31:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005162,ACC-1003,billing,2026-06-18T09:09:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-005163,ACC-1003,receiving,2026-06-24T08:12:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005164,ACC-1003,integrations,2026-06-01T12:13:00Z,Webhook retries exhausted,Reported by the Halden Cold Chain operations team.,closed
+TCK-005165,ACC-1003,integrations,2026-06-18T09:56:00Z,API 429 on bulk post,Reported by the Halden Cold Chain operations team.,closed
+TCK-005166,ACC-1003,cycle-count,2026-06-10T07:52:00Z,Recount loop,Reported by the Halden Cold Chain operations team.,closed
+TCK-005167,ACC-1003,receiving,2026-06-20T16:40:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005168,ACC-1003,cycle-count,2026-06-16T13:33:00Z,Recount loop,Reported by the Halden Cold Chain operations team.,closed
+TCK-005169,ACC-1003,picking,2026-06-06T14:42:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005170,ACC-1003,picking,2026-06-25T10:53:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005171,ACC-1003,putaway,2026-06-14T13:18:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005172,ACC-1003,billing,2026-06-06T08:13:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-005173,ACC-1003,billing,2026-06-19T12:34:00Z,Storage fees look wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005174,ACC-1003,receiving,2026-06-04T07:22:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005175,ACC-1003,picking,2026-06-20T17:04:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005176,ACC-1003,reporting,2026-06-13T07:40:00Z,Figure differs from portal,Reported by the Halden Cold Chain operations team.,closed
+TCK-005177,ACC-1003,picking,2026-06-14T07:24:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005178,ACC-1003,picking,2026-06-23T15:10:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005179,ACC-1003,cycle-count,2026-06-27T13:49:00Z,Variance threshold question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005180,ACC-1003,cycle-count,2026-06-25T16:52:00Z,Count task not generated,Reported by the Halden Cold Chain operations team.,closed
+TCK-005181,ACC-1003,reporting,2026-06-20T14:04:00Z,Deflection number changed,Reported by the Halden Cold Chain operations team.,closed
+TCK-005182,ACC-1003,receiving,2026-06-25T12:00:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005183,ACC-1003,picking,2026-06-21T09:45:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005184,ACC-1003,billing,2026-06-17T17:43:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005185,ACC-1003,cycle-count,2026-06-16T14:35:00Z,Recount loop,Reported by the Halden Cold Chain operations team.,closed
+TCK-005186,ACC-1003,receiving,2026-06-12T11:28:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005187,ACC-1003,putaway,2026-06-10T07:04:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005188,ACC-1003,integrations,2026-06-11T11:32:00Z,Webhook retries exhausted,Reported by the Halden Cold Chain operations team.,closed
+TCK-005189,ACC-1003,picking,2026-06-11T13:26:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005190,ACC-1003,reporting,2026-06-15T13:28:00Z,Report export empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005191,ACC-1003,receiving,2026-06-10T13:09:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005192,ACC-1003,receiving,2026-06-02T15:50:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005193,ACC-1003,putaway,2026-06-23T08:57:00Z,Zone capacity wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005194,ACC-1003,integrations,2026-06-20T14:00:00Z,API 429 on bulk post,Reported by the Halden Cold Chain operations team.,closed
+TCK-005195,ACC-1003,receiving,2026-06-25T11:48:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005196,ACC-1003,auth,2026-06-18T08:49:00Z,Session expiring early,Reported by the Halden Cold Chain operations team.,closed
+TCK-005197,ACC-1003,billing,2026-06-16T07:54:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005198,ACC-1004,receiving,2026-06-06T13:51:00Z,Pallet count differs,Reported by the Brightpath Freight operations team.,closed
+TCK-005199,ACC-1004,putaway,2026-06-20T15:36:00Z,Zone capacity wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005200,ACC-1004,integrations,2026-06-12T15:26:00Z,Webhook retries exhausted,Reported by the Brightpath Freight operations team.,closed
+TCK-005201,ACC-1004,picking,2026-06-03T08:05:00Z,Pick face empty,Reported by the Brightpath Freight operations team.,closed
+TCK-005202,ACC-1004,picking,2026-06-20T18:36:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-005203,ACC-1004,reporting,2026-06-04T08:15:00Z,Deflection number changed,Reported by the Brightpath Freight operations team.,closed
+TCK-005204,ACC-1004,putaway,2026-06-11T13:04:00Z,Zone capacity wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005205,ACC-1004,cycle-count,2026-06-27T16:10:00Z,Variance threshold question,Reported by the Brightpath Freight operations team.,closed
+TCK-005206,ACC-1004,reporting,2026-06-16T09:22:00Z,Figure differs from portal,Reported by the Brightpath Freight operations team.,closed
+TCK-005207,ACC-1004,reporting,2026-06-08T17:07:00Z,Figure differs from portal,Reported by the Brightpath Freight operations team.,closed
+TCK-005208,ACC-1004,integrations,2026-06-16T15:16:00Z,EDI feed rejecting,Reported by the Brightpath Freight operations team.,closed
+TCK-005209,ACC-1004,receiving,2026-06-03T14:44:00Z,ASN mismatch on inbound,Reported by the Brightpath Freight operations team.,closed
+TCK-005210,ACC-1004,integrations,2026-06-18T13:20:00Z,EDI feed rejecting,Reported by the Brightpath Freight operations team.,closed
+TCK-005211,ACC-1004,billing,2026-06-20T15:36:00Z,Storage fees look wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005212,ACC-1004,receiving,2026-06-27T13:20:00Z,ASN mismatch on inbound,Reported by the Brightpath Freight operations team.,closed
+TCK-005213,ACC-1004,reporting,2026-06-02T16:34:00Z,Report export empty,Reported by the Brightpath Freight operations team.,closed
+TCK-005214,ACC-1004,picking,2026-06-09T14:27:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-005215,ACC-1004,receiving,2026-06-03T17:54:00Z,Receipt not posting,Reported by the Brightpath Freight operations team.,closed
+TCK-005216,ACC-1004,cycle-count,2026-06-14T13:36:00Z,Variance threshold question,Reported by the Brightpath Freight operations team.,closed
+TCK-005217,ACC-1004,auth,2026-06-09T18:41:00Z,SSO mapping wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005218,ACC-1004,picking,2026-06-07T08:42:00Z,Wave will not release,Reported by the Brightpath Freight operations team.,closed
+TCK-005219,ACC-1004,putaway,2026-06-16T08:38:00Z,Putaway suggesting a full zone,Reported by the Brightpath Freight operations team.,closed
+TCK-005220,ACC-1004,putaway,2026-06-23T16:40:00Z,Directed putaway skipped,Reported by the Brightpath Freight operations team.,closed
+TCK-005221,ACC-1004,reporting,2026-06-27T10:29:00Z,Report export empty,Reported by the Brightpath Freight operations team.,closed
+TCK-005222,ACC-1004,billing,2026-06-14T11:28:00Z,Storage fees look wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005223,ACC-1004,billing,2026-06-10T07:41:00Z,Invoice line unexplained,Reported by the Brightpath Freight operations team.,closed
+TCK-005224,ACC-1004,integrations,2026-06-08T12:09:00Z,API 429 on bulk post,Reported by the Brightpath Freight operations team.,closed
+TCK-005225,ACC-1004,putaway,2026-06-17T18:47:00Z,Putaway suggesting a full zone,Reported by the Brightpath Freight operations team.,closed
+TCK-005226,ACC-1004,billing,2026-06-26T10:00:00Z,Invoice line unexplained,Reported by the Brightpath Freight operations team.,closed
+TCK-005227,ACC-1004,cycle-count,2026-06-03T09:34:00Z,Variance threshold question,Reported by the Brightpath Freight operations team.,closed
+TCK-005228,ACC-1004,integrations,2026-06-07T17:57:00Z,Webhook retries exhausted,Reported by the Brightpath Freight operations team.,closed
+TCK-005229,ACC-1004,putaway,2026-06-15T09:11:00Z,Directed putaway skipped,Reported by the Brightpath Freight operations team.,closed
+TCK-005230,ACC-1004,cycle-count,2026-06-14T09:20:00Z,Count task not generated,Reported by the Brightpath Freight operations team.,closed
+TCK-005231,ACC-1004,picking,2026-06-22T16:35:00Z,Pick face empty,Reported by the Brightpath Freight operations team.,closed
+TCK-005232,ACC-1005,cycle-count,2026-06-04T11:01:00Z,Count task not generated,Reported by the Meseta Almacenes operations team.,closed
+TCK-005233,ACC-1005,integrations,2026-06-03T13:14:00Z,Webhook retries exhausted,Reported by the Meseta Almacenes operations team.,closed
+TCK-005234,ACC-1005,reporting,2026-06-01T18:45:00Z,Deflection number changed,Reported by the Meseta Almacenes operations team.,closed
+TCK-005235,ACC-1005,cycle-count,2026-06-05T14:10:00Z,Recount loop,Reported by the Meseta Almacenes operations team.,closed
+TCK-005236,ACC-1005,picking,2026-06-16T16:21:00Z,Wave will not release,Reported by the Meseta Almacenes operations team.,closed
+TCK-005237,ACC-1005,receiving,2026-06-25T10:44:00Z,Receipt not posting,Reported by the Meseta Almacenes operations team.,closed
+TCK-005238,ACC-1005,reporting,2026-06-05T12:23:00Z,Report export empty,Reported by the Meseta Almacenes operations team.,closed
+TCK-005239,ACC-1006,billing,2026-06-18T18:39:00Z,Storage fees look wrong,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005240,ACC-1006,reporting,2026-06-03T07:45:00Z,Deflection number changed,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005241,ACC-1006,receiving,2026-06-08T16:53:00Z,Pallet count differs,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005242,ACC-1006,picking,2026-06-09T11:35:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005243,ACC-1006,reporting,2026-06-17T16:50:00Z,Report export empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005244,ACC-1006,picking,2026-06-20T10:46:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005245,ACC-1006,receiving,2026-06-15T07:00:00Z,Receipt not posting,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005246,ACC-1006,receiving,2026-06-02T09:50:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005247,ACC-1006,cycle-count,2026-06-12T11:11:00Z,Count task not generated,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005248,ACC-1006,receiving,2026-06-23T15:37:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005249,ACC-1006,auth,2026-06-01T07:41:00Z,SSO mapping wrong,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005250,ACC-1006,billing,2026-06-21T13:38:00Z,Refund window question,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005251,ACC-1006,cycle-count,2026-06-03T13:56:00Z,Count task not generated,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005252,ACC-1006,putaway,2026-06-09T16:39:00Z,Zone capacity wrong,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005253,ACC-1006,picking,2026-06-03T17:56:00Z,Short pick not recorded,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005254,ACC-1006,receiving,2026-06-23T16:58:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005255,ACC-1006,putaway,2026-06-05T09:12:00Z,Directed putaway skipped,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005256,ACC-1006,putaway,2026-06-01T13:39:00Z,Directed putaway skipped,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005257,ACC-1006,auth,2026-06-09T12:27:00Z,Session expiring early,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005258,ACC-1006,billing,2026-06-20T15:28:00Z,Refund window question,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005259,ACC-1006,billing,2026-06-26T18:30:00Z,Invoice line unexplained,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005260,ACC-1006,putaway,2026-06-23T18:08:00Z,Directed putaway skipped,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005261,ACC-1006,putaway,2026-06-08T10:37:00Z,Zone capacity wrong,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005262,ACC-1006,billing,2026-06-19T17:35:00Z,Storage fees look wrong,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005263,ACC-1006,billing,2026-06-23T11:27:00Z,Invoice line unexplained,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005264,ACC-1006,auth,2026-06-15T17:17:00Z,Operator cannot log in,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005265,ACC-1006,picking,2026-06-04T15:13:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005266,ACC-1007,receiving,2026-06-15T10:09:00Z,Receipt not posting,Reported by the Vlietwerk BV operations team.,closed
+TCK-005267,ACC-1007,putaway,2026-06-04T12:58:00Z,Directed putaway skipped,Reported by the Vlietwerk BV operations team.,closed
+TCK-005268,ACC-1007,integrations,2026-06-21T17:35:00Z,Webhook retries exhausted,Reported by the Vlietwerk BV operations team.,closed
+TCK-005269,ACC-1007,auth,2026-06-13T07:06:00Z,Operator cannot log in,Reported by the Vlietwerk BV operations team.,closed
+TCK-005270,ACC-1007,auth,2026-06-23T11:02:00Z,SSO mapping wrong,Reported by the Vlietwerk BV operations team.,closed
+TCK-005271,ACC-1008,billing,2026-06-09T10:22:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005272,ACC-1008,putaway,2026-06-16T13:02:00Z,Zone capacity wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005273,ACC-1008,integrations,2026-06-21T15:08:00Z,EDI feed rejecting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005274,ACC-1008,receiving,2026-06-20T16:07:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005275,ACC-1008,picking,2026-06-27T16:17:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005276,ACC-1008,receiving,2026-06-24T13:11:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005277,ACC-1008,integrations,2026-06-02T15:30:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005278,ACC-1008,auth,2026-06-24T15:34:00Z,Session expiring early,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005279,ACC-1008,picking,2026-06-24T12:36:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005280,ACC-1008,integrations,2026-06-08T10:27:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005281,ACC-1008,cycle-count,2026-06-16T17:22:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005282,ACC-1008,integrations,2026-06-23T07:17:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005283,ACC-1008,billing,2026-06-23T16:41:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005284,ACC-1008,putaway,2026-06-26T08:14:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005285,ACC-1008,auth,2026-06-19T18:11:00Z,Session expiring early,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005286,ACC-1008,cycle-count,2026-06-10T07:58:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005287,ACC-1008,receiving,2026-06-02T13:23:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005288,ACC-1008,putaway,2026-06-25T11:25:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005289,ACC-1008,billing,2026-06-04T15:35:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005290,ACC-1008,putaway,2026-06-17T08:06:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005291,ACC-1008,putaway,2026-06-17T09:18:00Z,Zone capacity wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005292,ACC-1008,reporting,2026-06-23T11:10:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005293,ACC-1008,auth,2026-06-19T07:47:00Z,SSO mapping wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005294,ACC-1008,putaway,2026-06-27T07:26:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005295,ACC-1008,picking,2026-06-10T10:59:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005296,ACC-1008,reporting,2026-06-08T18:11:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005297,ACC-1008,billing,2026-06-13T08:13:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005298,ACC-1008,reporting,2026-06-14T11:59:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005299,ACC-1008,picking,2026-06-22T18:27:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005300,ACC-1008,integrations,2026-06-06T13:40:00Z,EDI feed rejecting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005301,ACC-1008,putaway,2026-06-15T18:17:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005302,ACC-1008,receiving,2026-06-14T07:21:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005303,ACC-1008,putaway,2026-06-18T14:24:00Z,Zone capacity wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005304,ACC-1008,picking,2026-06-10T10:59:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005305,ACC-1008,integrations,2026-06-01T16:18:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005306,ACC-1008,picking,2026-06-23T17:32:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005307,ACC-1008,billing,2026-06-13T12:22:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005308,ACC-1008,picking,2026-06-05T13:29:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005309,ACC-1008,picking,2026-06-23T17:20:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005310,ACC-1008,receiving,2026-06-15T07:31:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005311,ACC-1008,integrations,2026-06-09T13:36:00Z,API 429 on bulk post,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005312,ACC-1008,integrations,2026-06-26T08:04:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005313,ACC-1008,picking,2026-06-19T16:16:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005314,ACC-1008,picking,2026-06-14T07:51:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005315,ACC-1008,reporting,2026-06-14T18:58:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005316,ACC-1008,putaway,2026-06-19T15:06:00Z,Zone capacity wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005317,ACC-1008,receiving,2026-06-14T10:30:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005318,ACC-1008,cycle-count,2026-06-24T12:53:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005319,ACC-1008,picking,2026-06-15T07:34:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005320,ACC-1008,auth,2026-06-04T07:21:00Z,Operator cannot log in,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005321,ACC-1008,billing,2026-06-06T08:24:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005322,ACC-1008,cycle-count,2026-06-09T17:47:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005323,ACC-1008,billing,2026-06-02T16:40:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005324,ACC-1008,billing,2026-06-20T08:22:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005325,ACC-1008,receiving,2026-06-01T08:26:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005326,ACC-1008,picking,2026-06-27T16:07:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005327,ACC-1008,receiving,2026-06-23T09:09:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005328,ACC-1008,receiving,2026-06-23T08:06:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005329,ACC-1008,receiving,2026-06-26T08:12:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005330,ACC-1008,cycle-count,2026-06-09T10:58:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005331,ACC-1008,reporting,2026-06-10T11:34:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005332,ACC-1008,picking,2026-06-21T14:56:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005333,ACC-1008,picking,2026-06-09T18:41:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005334,ACC-1008,cycle-count,2026-06-06T11:01:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005335,ACC-1008,cycle-count,2026-06-20T10:29:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005336,ACC-1008,picking,2026-06-06T10:50:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005337,ACC-1008,putaway,2026-06-04T16:29:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005338,ACC-1008,billing,2026-06-07T12:19:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005339,ACC-1008,billing,2026-06-04T08:02:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005340,ACC-1008,picking,2026-06-15T12:01:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005341,ACC-1008,cycle-count,2026-06-26T10:21:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005342,ACC-1008,reporting,2026-06-14T07:19:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005343,ACC-1008,receiving,2026-06-10T15:44:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005344,ACC-1008,integrations,2026-06-24T16:08:00Z,API 429 on bulk post,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005345,ACC-1008,billing,2026-06-08T18:57:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005346,ACC-1008,picking,2026-06-01T11:33:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005347,ACC-1008,putaway,2026-06-10T18:43:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005348,ACC-1008,putaway,2026-06-16T15:45:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005349,ACC-1008,picking,2026-06-22T10:28:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005350,ACC-1008,billing,2026-06-03T14:57:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005351,ACC-1008,picking,2026-06-13T13:24:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005352,ACC-1008,receiving,2026-06-24T11:48:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005353,ACC-1008,reporting,2026-06-10T12:24:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005354,ACC-1008,receiving,2026-06-12T13:59:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005355,ACC-1008,putaway,2026-06-04T09:55:00Z,Zone capacity wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005356,ACC-1008,reporting,2026-06-18T10:23:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005357,ACC-1008,picking,2026-06-21T15:59:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005358,ACC-1008,auth,2026-06-01T07:50:00Z,Operator cannot log in,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005359,ACC-1008,picking,2026-06-24T11:08:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005360,ACC-1008,integrations,2026-06-26T13:15:00Z,API 429 on bulk post,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005361,ACC-1008,integrations,2026-06-10T15:35:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005362,ACC-1008,picking,2026-06-10T15:48:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005363,ACC-1008,receiving,2026-06-01T15:01:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005364,ACC-1008,billing,2026-06-06T15:44:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005365,ACC-1008,receiving,2026-06-14T11:44:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005366,ACC-1008,cycle-count,2026-06-14T09:02:00Z,Recount loop,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005367,ACC-1008,picking,2026-06-08T12:34:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005368,ACC-1008,auth,2026-06-12T16:09:00Z,Session expiring early,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005369,ACC-1008,auth,2026-06-20T16:03:00Z,Operator cannot log in,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005370,ACC-1008,cycle-count,2026-06-16T09:13:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005371,ACC-1008,picking,2026-06-21T13:41:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005372,ACC-1008,receiving,2026-06-17T15:08:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005373,ACC-1008,billing,2026-06-21T16:51:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005374,ACC-1008,auth,2026-06-03T16:59:00Z,Session expiring early,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005375,ACC-1008,putaway,2026-06-10T13:12:00Z,Zone capacity wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005376,ACC-1008,reporting,2026-06-16T12:32:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005377,ACC-1008,auth,2026-06-01T14:26:00Z,SSO mapping wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005378,ACC-1008,receiving,2026-06-13T10:44:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005379,ACC-1008,billing,2026-06-17T11:58:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005380,ACC-1008,picking,2026-06-03T10:10:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005381,ACC-1008,receiving,2026-06-05T07:53:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005382,ACC-1008,putaway,2026-06-25T16:25:00Z,Zone capacity wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005383,ACC-1008,billing,2026-06-04T11:24:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005384,ACC-1008,reporting,2026-06-24T16:32:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005385,ACC-1008,billing,2026-06-13T10:54:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005386,ACC-1009,receiving,2026-06-13T18:33:00Z,ASN mismatch on inbound,Reported by the Copal Andina operations team.,closed
+TCK-005387,ACC-1009,integrations,2026-06-18T09:03:00Z,EDI feed rejecting,Reported by the Copal Andina operations team.,closed
+TCK-005388,ACC-1009,cycle-count,2026-06-06T11:58:00Z,Variance threshold question,Reported by the Copal Andina operations team.,closed
+TCK-005389,ACC-1009,picking,2026-06-22T18:37:00Z,Pick face empty,Reported by the Copal Andina operations team.,closed
+TCK-005390,ACC-1009,billing,2026-06-14T12:59:00Z,Invoice line unexplained,Reported by the Copal Andina operations team.,closed
+TCK-005391,ACC-1009,receiving,2026-06-06T18:44:00Z,Receipt not posting,Reported by the Copal Andina operations team.,closed
+TCK-005392,ACC-1009,putaway,2026-06-13T09:29:00Z,Zone capacity wrong,Reported by the Copal Andina operations team.,closed
+TCK-005393,ACC-1009,putaway,2026-06-02T16:32:00Z,Zone capacity wrong,Reported by the Copal Andina operations team.,closed
+TCK-005394,ACC-1009,receiving,2026-06-26T13:25:00Z,Receipt not posting,Reported by the Copal Andina operations team.,closed
+TCK-005395,ACC-1009,billing,2026-06-26T15:29:00Z,Storage fees look wrong,Reported by the Copal Andina operations team.,closed
+TCK-005396,ACC-1009,picking,2026-06-01T07:41:00Z,Short pick not recorded,Reported by the Copal Andina operations team.,closed
+TCK-005397,ACC-1009,putaway,2026-06-04T08:51:00Z,Zone capacity wrong,Reported by the Copal Andina operations team.,closed
+TCK-005398,ACC-1009,picking,2026-06-11T16:01:00Z,Short pick not recorded,Reported by the Copal Andina operations team.,closed
+TCK-005399,ACC-1009,billing,2026-06-03T13:07:00Z,Storage fees look wrong,Reported by the Copal Andina operations team.,closed
+TCK-005400,ACC-1009,integrations,2026-06-20T09:58:00Z,EDI feed rejecting,Reported by the Copal Andina operations team.,closed
+TCK-005401,ACC-1009,picking,2026-06-14T16:14:00Z,Short pick not recorded,Reported by the Copal Andina operations team.,closed
+TCK-005402,ACC-1009,billing,2026-06-15T11:07:00Z,Invoice line unexplained,Reported by the Copal Andina operations team.,closed
+TCK-005403,ACC-1009,putaway,2026-06-07T18:21:00Z,Putaway suggesting a full zone,Reported by the Copal Andina operations team.,closed
+TCK-005404,ACC-1009,cycle-count,2026-06-14T14:15:00Z,Recount loop,Reported by the Copal Andina operations team.,closed
+TCK-005405,ACC-1009,receiving,2026-06-10T15:36:00Z,Pallet count differs,Reported by the Copal Andina operations team.,closed
+TCK-005406,ACC-1010,integrations,2026-06-08T18:22:00Z,API 429 on bulk post,Reported by the Fjordline Depot operations team.,closed
+TCK-005407,ACC-1010,putaway,2026-06-08T18:15:00Z,Putaway suggesting a full zone,Reported by the Fjordline Depot operations team.,closed
+TCK-005408,ACC-1010,billing,2026-06-05T08:20:00Z,Invoice line unexplained,Reported by the Fjordline Depot operations team.,closed
+TCK-005409,ACC-1001,auth,2026-07-09T18:47:00Z,SSO mapping wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005410,ACC-1001,receiving,2026-07-22T15:27:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005411,ACC-1001,putaway,2026-07-03T08:18:00Z,Putaway suggesting a full zone,Reported by the Nordkai Logistics operations team.,closed
+TCK-005412,ACC-1001,billing,2026-07-27T16:41:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005413,ACC-1001,integrations,2026-07-19T09:26:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005414,ACC-1001,putaway,2026-07-22T08:12:00Z,Zone capacity wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005415,ACC-1001,billing,2026-07-25T13:14:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005416,ACC-1001,billing,2026-07-12T18:50:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005417,ACC-1001,integrations,2026-07-07T11:06:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005418,ACC-1001,integrations,2026-07-04T08:48:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005419,ACC-1001,picking,2026-07-12T08:45:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005420,ACC-1001,receiving,2026-07-05T16:18:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005421,ACC-1001,receiving,2026-07-23T17:06:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005422,ACC-1001,reporting,2026-07-04T12:23:00Z,Report export empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005423,ACC-1001,billing,2026-07-01T08:58:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005424,ACC-1001,picking,2026-07-01T09:52:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005425,ACC-1001,picking,2026-07-12T13:27:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005426,ACC-1001,reporting,2026-07-16T09:15:00Z,Figure differs from portal,Reported by the Nordkai Logistics operations team.,closed
+TCK-005427,ACC-1001,integrations,2026-07-12T14:00:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005428,ACC-1001,integrations,2026-07-04T13:42:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005429,ACC-1001,integrations,2026-07-13T07:39:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005430,ACC-1001,picking,2026-07-23T14:28:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005431,ACC-1001,integrations,2026-07-06T16:03:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005432,ACC-1001,receiving,2026-07-02T08:32:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005433,ACC-1001,billing,2026-07-05T07:18:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005434,ACC-1001,billing,2026-07-07T16:47:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005435,ACC-1001,receiving,2026-07-13T07:45:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005436,ACC-1001,integrations,2026-07-27T08:18:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005437,ACC-1001,picking,2026-07-18T14:42:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005438,ACC-1001,picking,2026-07-25T10:39:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005439,ACC-1001,receiving,2026-07-05T16:01:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005440,ACC-1001,auth,2026-07-25T13:02:00Z,Operator cannot log in,Reported by the Nordkai Logistics operations team.,closed
+TCK-005441,ACC-1001,picking,2026-07-09T09:05:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005442,ACC-1001,picking,2026-07-05T15:44:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005443,ACC-1001,receiving,2026-07-08T10:14:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005444,ACC-1001,picking,2026-07-01T11:39:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005445,ACC-1001,cycle-count,2026-07-07T14:36:00Z,Count task not generated,Reported by the Nordkai Logistics operations team.,closed
+TCK-005446,ACC-1001,integrations,2026-07-13T18:24:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005447,ACC-1001,picking,2026-07-25T12:16:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005448,ACC-1001,reporting,2026-07-03T17:33:00Z,Figure differs from portal,Reported by the Nordkai Logistics operations team.,closed
+TCK-005449,ACC-1001,cycle-count,2026-07-03T13:18:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005450,ACC-1001,billing,2026-07-20T08:34:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005451,ACC-1001,cycle-count,2026-07-24T18:50:00Z,Recount loop,Reported by the Nordkai Logistics operations team.,closed
+TCK-005452,ACC-1001,receiving,2026-07-25T12:33:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005453,ACC-1001,integrations,2026-07-22T18:11:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005454,ACC-1001,reporting,2026-07-12T10:40:00Z,Report export empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005455,ACC-1001,picking,2026-07-18T14:49:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005456,ACC-1001,receiving,2026-07-24T07:26:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005457,ACC-1001,picking,2026-07-17T09:07:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005458,ACC-1001,billing,2026-07-10T18:52:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005459,ACC-1001,picking,2026-07-27T10:11:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005460,ACC-1001,auth,2026-07-18T13:03:00Z,Operator cannot log in,Reported by the Nordkai Logistics operations team.,closed
+TCK-005461,ACC-1001,auth,2026-07-21T11:18:00Z,Session expiring early,Reported by the Nordkai Logistics operations team.,closed
+TCK-005462,ACC-1001,integrations,2026-07-17T15:30:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005463,ACC-1001,auth,2026-07-26T07:20:00Z,Session expiring early,Reported by the Nordkai Logistics operations team.,closed
+TCK-005464,ACC-1001,picking,2026-07-01T07:59:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005465,ACC-1001,picking,2026-07-27T07:01:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005466,ACC-1001,receiving,2026-07-04T11:47:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005467,ACC-1001,picking,2026-07-15T08:56:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005468,ACC-1001,receiving,2026-07-16T15:14:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005469,ACC-1001,picking,2026-07-01T11:46:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005470,ACC-1001,cycle-count,2026-07-12T16:14:00Z,Count task not generated,Reported by the Nordkai Logistics operations team.,closed
+TCK-005471,ACC-1001,billing,2026-07-01T09:50:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005472,ACC-1001,picking,2026-07-23T09:42:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005473,ACC-1001,billing,2026-07-01T16:33:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005474,ACC-1001,reporting,2026-07-16T14:30:00Z,Report export empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005475,ACC-1001,integrations,2026-07-25T13:54:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005476,ACC-1001,integrations,2026-07-15T12:22:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005477,ACC-1001,integrations,2026-07-09T09:43:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005478,ACC-1001,picking,2026-07-24T12:33:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005479,ACC-1001,receiving,2026-07-12T12:39:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005480,ACC-1001,integrations,2026-07-21T09:46:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005481,ACC-1001,receiving,2026-07-11T15:41:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005482,ACC-1001,billing,2026-07-20T11:19:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005483,ACC-1001,picking,2026-07-17T14:37:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005484,ACC-1001,integrations,2026-07-23T14:33:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005485,ACC-1001,billing,2026-07-16T12:12:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005486,ACC-1001,receiving,2026-07-17T13:38:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005487,ACC-1001,cycle-count,2026-07-26T17:19:00Z,Recount loop,Reported by the Nordkai Logistics operations team.,closed
+TCK-005488,ACC-1001,putaway,2026-07-07T14:00:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005489,ACC-1001,receiving,2026-07-25T13:31:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005490,ACC-1001,receiving,2026-07-16T14:30:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005491,ACC-1001,receiving,2026-07-20T15:04:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005492,ACC-1001,receiving,2026-07-24T15:55:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005493,ACC-1001,picking,2026-07-15T12:16:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005494,ACC-1001,receiving,2026-07-06T09:22:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005495,ACC-1001,integrations,2026-07-03T08:44:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005496,ACC-1001,billing,2026-07-02T13:38:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005497,ACC-1001,picking,2026-07-23T16:42:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005498,ACC-1001,integrations,2026-07-07T18:00:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005499,ACC-1001,picking,2026-07-24T08:36:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005500,ACC-1001,receiving,2026-07-20T07:06:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005501,ACC-1001,billing,2026-07-10T12:23:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005502,ACC-1001,billing,2026-07-22T09:35:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005503,ACC-1001,reporting,2026-07-11T07:33:00Z,Figure differs from portal,Reported by the Nordkai Logistics operations team.,closed
+TCK-005504,ACC-1002,reporting,2026-07-25T08:24:00Z,Figure differs from portal,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005505,ACC-1002,billing,2026-07-09T17:13:00Z,Refund window question,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005506,ACC-1002,receiving,2026-07-17T07:23:00Z,Pallet count differs,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005507,ACC-1002,integrations,2026-07-26T15:40:00Z,API 429 on bulk post,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005508,ACC-1002,putaway,2026-07-07T17:59:00Z,Directed putaway skipped,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005509,ACC-1002,cycle-count,2026-07-18T08:42:00Z,Recount loop,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005510,ACC-1002,receiving,2026-07-10T09:47:00Z,Receipt not posting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005511,ACC-1002,picking,2026-07-27T17:49:00Z,Short pick not recorded,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005512,ACC-1002,auth,2026-07-15T08:39:00Z,SSO mapping wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005513,ACC-1002,billing,2026-07-15T16:35:00Z,Storage fees look wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005514,ACC-1002,receiving,2026-07-08T16:45:00Z,Pallet count differs,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005515,ACC-1002,picking,2026-07-23T07:53:00Z,Wave will not release,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005516,ACC-1002,receiving,2026-07-03T14:22:00Z,Receipt not posting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005517,ACC-1002,putaway,2026-07-01T15:42:00Z,Zone capacity wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005518,ACC-1002,receiving,2026-07-23T18:05:00Z,Receipt not posting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005519,ACC-1002,putaway,2026-07-27T07:39:00Z,Directed putaway skipped,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005520,ACC-1002,putaway,2026-07-17T11:29:00Z,Putaway suggesting a full zone,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005521,ACC-1002,integrations,2026-07-13T18:21:00Z,Webhook retries exhausted,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005522,ACC-1002,picking,2026-07-15T16:48:00Z,Pick face empty,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005523,ACC-1002,receiving,2026-07-14T08:07:00Z,Receipt not posting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005524,ACC-1002,receiving,2026-07-17T07:01:00Z,ASN mismatch on inbound,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005525,ACC-1002,reporting,2026-07-01T10:34:00Z,Figure differs from portal,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005526,ACC-1002,auth,2026-07-17T09:01:00Z,Operator cannot log in,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005527,ACC-1002,putaway,2026-07-14T11:43:00Z,Putaway suggesting a full zone,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005528,ACC-1002,integrations,2026-07-06T08:28:00Z,API 429 on bulk post,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005529,ACC-1003,picking,2026-07-11T14:10:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005530,ACC-1003,receiving,2026-07-21T16:15:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005531,ACC-1003,billing,2026-07-27T08:21:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-005532,ACC-1003,auth,2026-07-23T15:44:00Z,SSO mapping wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005533,ACC-1003,picking,2026-07-17T08:23:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005534,ACC-1003,putaway,2026-07-15T11:13:00Z,Zone capacity wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005535,ACC-1003,picking,2026-07-02T10:49:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005536,ACC-1003,billing,2026-07-23T07:38:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-005537,ACC-1003,billing,2026-07-21T10:10:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-005538,ACC-1003,integrations,2026-07-24T17:59:00Z,API 429 on bulk post,Reported by the Halden Cold Chain operations team.,closed
+TCK-005539,ACC-1003,receiving,2026-07-01T13:38:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005540,ACC-1003,putaway,2026-07-08T08:13:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005541,ACC-1003,receiving,2026-07-18T08:39:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005542,ACC-1003,putaway,2026-07-24T15:48:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005543,ACC-1003,billing,2026-07-10T13:05:00Z,Storage fees look wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005544,ACC-1003,putaway,2026-07-05T15:14:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005545,ACC-1003,billing,2026-07-12T14:49:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005546,ACC-1003,receiving,2026-07-18T07:57:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005547,ACC-1003,picking,2026-07-20T09:15:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005548,ACC-1003,putaway,2026-07-26T13:42:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005549,ACC-1003,picking,2026-07-06T18:00:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005550,ACC-1003,picking,2026-07-27T18:25:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005551,ACC-1003,integrations,2026-07-10T18:41:00Z,Webhook retries exhausted,Reported by the Halden Cold Chain operations team.,closed
+TCK-005552,ACC-1003,billing,2026-07-04T12:22:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005553,ACC-1003,billing,2026-07-04T14:26:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005554,ACC-1003,putaway,2026-07-20T18:09:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005555,ACC-1003,billing,2026-07-04T08:56:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005556,ACC-1003,auth,2026-07-13T07:05:00Z,Operator cannot log in,Reported by the Halden Cold Chain operations team.,closed
+TCK-005557,ACC-1003,picking,2026-07-14T07:23:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005558,ACC-1003,receiving,2026-07-11T16:55:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005559,ACC-1003,picking,2026-07-16T15:15:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005560,ACC-1003,picking,2026-07-25T13:13:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005561,ACC-1003,billing,2026-07-21T13:41:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005562,ACC-1003,cycle-count,2026-07-07T16:23:00Z,Count task not generated,Reported by the Halden Cold Chain operations team.,closed
+TCK-005563,ACC-1003,receiving,2026-07-18T10:16:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005564,ACC-1003,billing,2026-07-25T12:58:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-005565,ACC-1003,receiving,2026-07-18T17:43:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005566,ACC-1003,putaway,2026-07-10T09:45:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005567,ACC-1003,cycle-count,2026-07-05T08:00:00Z,Count task not generated,Reported by the Halden Cold Chain operations team.,closed
+TCK-005568,ACC-1003,reporting,2026-07-11T08:17:00Z,Figure differs from portal,Reported by the Halden Cold Chain operations team.,closed
+TCK-005569,ACC-1003,putaway,2026-07-06T15:33:00Z,Zone capacity wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005570,ACC-1003,receiving,2026-07-12T17:12:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005571,ACC-1003,cycle-count,2026-07-02T13:46:00Z,Count task not generated,Reported by the Halden Cold Chain operations team.,closed
+TCK-005572,ACC-1003,cycle-count,2026-07-08T11:59:00Z,Count task not generated,Reported by the Halden Cold Chain operations team.,closed
+TCK-005573,ACC-1003,integrations,2026-07-16T16:51:00Z,API 429 on bulk post,Reported by the Halden Cold Chain operations team.,closed
+TCK-005574,ACC-1003,putaway,2026-07-13T07:18:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005575,ACC-1003,cycle-count,2026-07-14T07:53:00Z,Recount loop,Reported by the Halden Cold Chain operations team.,closed
+TCK-005576,ACC-1003,auth,2026-07-01T10:32:00Z,SSO mapping wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005577,ACC-1003,billing,2026-07-02T16:31:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005578,ACC-1003,receiving,2026-07-19T13:47:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005579,ACC-1003,cycle-count,2026-07-19T16:21:00Z,Recount loop,Reported by the Halden Cold Chain operations team.,closed
+TCK-005580,ACC-1003,putaway,2026-07-14T16:35:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005581,ACC-1003,picking,2026-07-09T16:20:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005582,ACC-1003,picking,2026-07-08T07:16:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005583,ACC-1003,receiving,2026-07-10T10:00:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005584,ACC-1003,picking,2026-07-12T07:28:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005585,ACC-1003,billing,2026-07-27T15:18:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005586,ACC-1003,auth,2026-07-16T12:02:00Z,SSO mapping wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005587,ACC-1003,putaway,2026-07-09T15:01:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005588,ACC-1003,cycle-count,2026-07-06T08:52:00Z,Variance threshold question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005589,ACC-1003,receiving,2026-07-20T14:29:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005590,ACC-1003,putaway,2026-07-02T18:56:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005591,ACC-1003,integrations,2026-07-01T13:45:00Z,EDI feed rejecting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005592,ACC-1003,putaway,2026-07-23T10:49:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005593,ACC-1003,integrations,2026-07-01T17:47:00Z,API 429 on bulk post,Reported by the Halden Cold Chain operations team.,closed
+TCK-005594,ACC-1003,picking,2026-07-25T11:05:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005595,ACC-1003,integrations,2026-07-25T12:59:00Z,EDI feed rejecting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005596,ACC-1003,picking,2026-07-21T10:01:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005597,ACC-1003,picking,2026-07-18T12:36:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005598,ACC-1003,picking,2026-07-03T14:07:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005599,ACC-1003,billing,2026-07-09T18:34:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005600,ACC-1003,receiving,2026-07-21T18:41:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005601,ACC-1003,receiving,2026-07-08T07:21:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005602,ACC-1003,receiving,2026-07-14T18:08:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005603,ACC-1003,reporting,2026-07-24T13:21:00Z,Deflection number changed,Reported by the Halden Cold Chain operations team.,closed
+TCK-005604,ACC-1003,receiving,2026-07-01T14:52:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005605,ACC-1003,receiving,2026-07-03T07:19:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005606,ACC-1004,putaway,2026-07-16T08:31:00Z,Putaway suggesting a full zone,Reported by the Brightpath Freight operations team.,closed
+TCK-005607,ACC-1004,picking,2026-07-16T15:33:00Z,Wave will not release,Reported by the Brightpath Freight operations team.,closed
+TCK-005608,ACC-1004,reporting,2026-07-11T10:21:00Z,Report export empty,Reported by the Brightpath Freight operations team.,closed
+TCK-005609,ACC-1004,receiving,2026-07-15T09:56:00Z,ASN mismatch on inbound,Reported by the Brightpath Freight operations team.,closed
+TCK-005610,ACC-1004,picking,2026-07-23T18:17:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-005611,ACC-1004,cycle-count,2026-07-08T13:51:00Z,Recount loop,Reported by the Brightpath Freight operations team.,closed
+TCK-005612,ACC-1004,picking,2026-07-24T12:21:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-005613,ACC-1004,integrations,2026-07-04T09:11:00Z,Webhook retries exhausted,Reported by the Brightpath Freight operations team.,closed
+TCK-005614,ACC-1004,reporting,2026-07-14T13:29:00Z,Deflection number changed,Reported by the Brightpath Freight operations team.,closed
+TCK-005615,ACC-1004,picking,2026-07-01T13:23:00Z,Wave will not release,Reported by the Brightpath Freight operations team.,closed
+TCK-005616,ACC-1004,billing,2026-07-19T07:59:00Z,Storage fees look wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005617,ACC-1004,receiving,2026-07-09T16:53:00Z,Receipt not posting,Reported by the Brightpath Freight operations team.,closed
+TCK-005618,ACC-1004,receiving,2026-07-24T14:22:00Z,Pallet count differs,Reported by the Brightpath Freight operations team.,closed
+TCK-005619,ACC-1004,putaway,2026-07-25T16:17:00Z,Zone capacity wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005620,ACC-1004,integrations,2026-07-08T13:56:00Z,API 429 on bulk post,Reported by the Brightpath Freight operations team.,closed
+TCK-005621,ACC-1004,reporting,2026-07-22T11:51:00Z,Figure differs from portal,Reported by the Brightpath Freight operations team.,closed
+TCK-005622,ACC-1004,putaway,2026-07-16T14:52:00Z,Directed putaway skipped,Reported by the Brightpath Freight operations team.,closed
+TCK-005623,ACC-1004,picking,2026-07-05T17:06:00Z,Pick face empty,Reported by the Brightpath Freight operations team.,closed
+TCK-005624,ACC-1004,billing,2026-07-12T09:28:00Z,Invoice line unexplained,Reported by the Brightpath Freight operations team.,closed
+TCK-005625,ACC-1004,picking,2026-07-04T07:54:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-005626,ACC-1004,putaway,2026-07-17T13:30:00Z,Zone capacity wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005627,ACC-1004,picking,2026-07-06T18:47:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-005628,ACC-1004,billing,2026-07-17T14:25:00Z,Refund window question,Reported by the Brightpath Freight operations team.,closed
+TCK-005629,ACC-1004,picking,2026-07-19T17:24:00Z,Wave will not release,Reported by the Brightpath Freight operations team.,closed
+TCK-005630,ACC-1004,putaway,2026-07-04T17:38:00Z,Zone capacity wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005631,ACC-1004,picking,2026-07-19T08:04:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-005632,ACC-1004,billing,2026-07-19T07:33:00Z,Storage fees look wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-005633,ACC-1004,picking,2026-07-06T07:43:00Z,Pick face empty,Reported by the Brightpath Freight operations team.,closed
+TCK-005634,ACC-1004,cycle-count,2026-07-16T15:12:00Z,Variance threshold question,Reported by the Brightpath Freight operations team.,closed
+TCK-005635,ACC-1004,picking,2026-07-14T15:49:00Z,Pick face empty,Reported by the Brightpath Freight operations team.,closed
+TCK-005636,ACC-1004,billing,2026-07-16T09:56:00Z,Refund window question,Reported by the Brightpath Freight operations team.,closed
+TCK-005637,ACC-1004,picking,2026-07-16T08:13:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-005638,ACC-1004,cycle-count,2026-07-17T16:39:00Z,Variance threshold question,Reported by the Brightpath Freight operations team.,closed
+TCK-005639,ACC-1004,receiving,2026-07-14T17:49:00Z,Pallet count differs,Reported by the Brightpath Freight operations team.,closed
+TCK-005640,ACC-1005,receiving,2026-07-18T11:55:00Z,Receipt not posting,Reported by the Meseta Almacenes operations team.,closed
+TCK-005641,ACC-1005,billing,2026-07-17T09:16:00Z,Refund window question,Reported by the Meseta Almacenes operations team.,closed
+TCK-005642,ACC-1005,billing,2026-07-09T08:51:00Z,Storage fees look wrong,Reported by the Meseta Almacenes operations team.,closed
+TCK-005643,ACC-1005,integrations,2026-07-05T09:25:00Z,Webhook retries exhausted,Reported by the Meseta Almacenes operations team.,closed
+TCK-005644,ACC-1005,billing,2026-07-22T18:51:00Z,Invoice line unexplained,Reported by the Meseta Almacenes operations team.,closed
+TCK-005645,ACC-1005,receiving,2026-07-05T10:39:00Z,Receipt not posting,Reported by the Meseta Almacenes operations team.,closed
+TCK-005646,ACC-1005,receiving,2026-07-14T10:24:00Z,Receipt not posting,Reported by the Meseta Almacenes operations team.,closed
+TCK-005647,ACC-1006,cycle-count,2026-07-02T10:43:00Z,Count task not generated,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005648,ACC-1006,integrations,2026-07-17T14:48:00Z,EDI feed rejecting,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005649,ACC-1006,auth,2026-07-09T11:20:00Z,Session expiring early,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005650,ACC-1006,receiving,2026-07-26T07:40:00Z,Pallet count differs,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005651,ACC-1006,receiving,2026-07-27T15:43:00Z,Receipt not posting,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005652,ACC-1006,receiving,2026-07-25T18:58:00Z,Pallet count differs,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005653,ACC-1006,integrations,2026-07-03T17:32:00Z,Webhook retries exhausted,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005654,ACC-1006,billing,2026-07-13T14:00:00Z,Storage fees look wrong,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005655,ACC-1006,picking,2026-07-19T11:02:00Z,Wave will not release,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005656,ACC-1006,receiving,2026-07-16T11:26:00Z,Pallet count differs,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005657,ACC-1006,billing,2026-07-15T10:04:00Z,Refund window question,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005658,ACC-1006,picking,2026-07-12T07:50:00Z,Short pick not recorded,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005659,ACC-1006,integrations,2026-07-04T08:54:00Z,EDI feed rejecting,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005660,ACC-1006,putaway,2026-07-15T11:23:00Z,Putaway suggesting a full zone,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005661,ACC-1006,receiving,2026-07-02T10:08:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005662,ACC-1006,putaway,2026-07-26T11:30:00Z,Directed putaway skipped,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005663,ACC-1006,picking,2026-07-02T17:52:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005664,ACC-1006,picking,2026-07-10T14:12:00Z,Wave will not release,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005665,ACC-1006,picking,2026-07-22T15:11:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005666,ACC-1006,receiving,2026-07-23T10:57:00Z,Receipt not posting,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005667,ACC-1006,receiving,2026-07-12T09:08:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005668,ACC-1006,reporting,2026-07-06T18:09:00Z,Deflection number changed,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005669,ACC-1006,auth,2026-07-13T17:31:00Z,Session expiring early,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005670,ACC-1006,reporting,2026-07-22T11:45:00Z,Figure differs from portal,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005671,ACC-1006,picking,2026-07-12T18:45:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005672,ACC-1006,putaway,2026-07-16T13:44:00Z,Putaway suggesting a full zone,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005673,ACC-1006,receiving,2026-07-06T12:36:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-005674,ACC-1007,picking,2026-07-27T12:47:00Z,Short pick not recorded,Reported by the Vlietwerk BV operations team.,closed
+TCK-005675,ACC-1007,billing,2026-07-25T08:13:00Z,Storage fees look wrong,Reported by the Vlietwerk BV operations team.,closed
+TCK-005676,ACC-1007,receiving,2026-07-11T08:07:00Z,Receipt not posting,Reported by the Vlietwerk BV operations team.,closed
+TCK-005677,ACC-1007,receiving,2026-07-04T09:14:00Z,Pallet count differs,Reported by the Vlietwerk BV operations team.,closed
+TCK-005678,ACC-1007,receiving,2026-07-26T12:56:00Z,Receipt not posting,Reported by the Vlietwerk BV operations team.,closed
+TCK-005679,ACC-1008,receiving,2026-07-10T08:58:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005680,ACC-1008,cycle-count,2026-07-06T16:36:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005681,ACC-1008,cycle-count,2026-07-21T10:48:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005682,ACC-1008,cycle-count,2026-07-20T18:31:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005683,ACC-1008,putaway,2026-07-15T15:18:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005684,ACC-1008,receiving,2026-07-10T18:36:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005685,ACC-1008,picking,2026-07-17T12:01:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005686,ACC-1008,cycle-count,2026-07-06T09:29:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005687,ACC-1008,cycle-count,2026-07-26T09:59:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005688,ACC-1008,putaway,2026-07-04T13:55:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005689,ACC-1008,billing,2026-07-17T13:23:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005690,ACC-1008,integrations,2026-07-05T16:38:00Z,EDI feed rejecting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005691,ACC-1008,integrations,2026-07-26T11:04:00Z,API 429 on bulk post,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005692,ACC-1008,receiving,2026-07-15T09:21:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005693,ACC-1008,billing,2026-07-09T15:46:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005694,ACC-1008,picking,2026-07-03T17:41:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005695,ACC-1008,picking,2026-07-11T17:49:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005696,ACC-1008,billing,2026-07-16T10:09:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005697,ACC-1008,receiving,2026-07-02T15:52:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005698,ACC-1008,putaway,2026-07-25T10:21:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005699,ACC-1008,picking,2026-07-12T07:07:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005700,ACC-1008,picking,2026-07-06T11:33:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005701,ACC-1008,integrations,2026-07-09T12:15:00Z,EDI feed rejecting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005702,ACC-1008,billing,2026-07-17T11:34:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005703,ACC-1008,receiving,2026-07-21T07:44:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005704,ACC-1008,billing,2026-07-10T17:13:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005705,ACC-1008,integrations,2026-07-24T17:32:00Z,API 429 on bulk post,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005706,ACC-1008,picking,2026-07-20T07:44:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005707,ACC-1008,reporting,2026-07-02T18:07:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005708,ACC-1008,receiving,2026-07-15T08:31:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005709,ACC-1008,reporting,2026-07-02T17:51:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005710,ACC-1008,billing,2026-07-06T17:03:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005711,ACC-1008,cycle-count,2026-07-08T17:51:00Z,Recount loop,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005712,ACC-1008,picking,2026-07-12T14:26:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005713,ACC-1008,billing,2026-07-25T13:43:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005714,ACC-1008,receiving,2026-07-10T11:15:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005715,ACC-1008,picking,2026-07-07T14:35:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005716,ACC-1008,auth,2026-07-13T09:03:00Z,SSO mapping wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005717,ACC-1008,reporting,2026-07-13T10:48:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005718,ACC-1008,receiving,2026-07-11T14:44:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005719,ACC-1008,auth,2026-07-11T17:18:00Z,Session expiring early,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005720,ACC-1008,auth,2026-07-02T16:50:00Z,Session expiring early,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005721,ACC-1008,billing,2026-07-02T10:29:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005722,ACC-1008,receiving,2026-07-14T14:30:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005723,ACC-1008,picking,2026-07-22T10:18:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005724,ACC-1008,reporting,2026-07-05T12:29:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005725,ACC-1008,receiving,2026-07-03T15:08:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005726,ACC-1008,receiving,2026-07-02T16:49:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005727,ACC-1008,putaway,2026-07-08T12:42:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005728,ACC-1008,receiving,2026-07-04T11:11:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005729,ACC-1008,picking,2026-07-21T17:04:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005730,ACC-1008,picking,2026-07-18T14:01:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005731,ACC-1008,putaway,2026-07-18T15:37:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005732,ACC-1008,picking,2026-07-20T09:45:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005733,ACC-1008,receiving,2026-07-18T14:28:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005734,ACC-1008,picking,2026-07-07T15:06:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005735,ACC-1008,picking,2026-07-15T09:45:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005736,ACC-1008,picking,2026-07-05T08:12:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005737,ACC-1008,picking,2026-07-10T17:46:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005738,ACC-1008,cycle-count,2026-07-23T10:49:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005739,ACC-1008,picking,2026-07-01T08:40:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005740,ACC-1008,receiving,2026-07-13T18:34:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005741,ACC-1008,picking,2026-07-20T07:45:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005742,ACC-1008,receiving,2026-07-24T13:37:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005743,ACC-1008,billing,2026-07-24T17:03:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005744,ACC-1008,reporting,2026-07-02T14:09:00Z,Report export empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005745,ACC-1008,receiving,2026-07-12T08:51:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005746,ACC-1008,reporting,2026-07-20T10:18:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005747,ACC-1008,cycle-count,2026-07-07T10:46:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005748,ACC-1008,reporting,2026-07-03T18:37:00Z,Report export empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005749,ACC-1008,receiving,2026-07-08T09:22:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005750,ACC-1008,receiving,2026-07-08T07:26:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005751,ACC-1008,picking,2026-07-08T11:34:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005752,ACC-1008,billing,2026-07-22T12:23:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005753,ACC-1008,reporting,2026-07-06T11:15:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005754,ACC-1008,putaway,2026-07-08T10:47:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005755,ACC-1008,picking,2026-07-12T16:52:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005756,ACC-1008,cycle-count,2026-07-26T07:20:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005757,ACC-1008,picking,2026-07-19T11:54:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005758,ACC-1008,putaway,2026-07-14T13:31:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005759,ACC-1008,integrations,2026-07-19T09:26:00Z,API 429 on bulk post,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005760,ACC-1008,picking,2026-07-25T17:03:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005761,ACC-1008,auth,2026-07-06T10:20:00Z,Operator cannot log in,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005762,ACC-1008,picking,2026-07-23T07:00:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005763,ACC-1008,billing,2026-07-15T10:23:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005764,ACC-1008,putaway,2026-07-12T15:49:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005765,ACC-1008,putaway,2026-07-17T15:05:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005766,ACC-1008,reporting,2026-07-24T12:00:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005767,ACC-1008,picking,2026-07-11T15:24:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005768,ACC-1008,auth,2026-07-24T17:04:00Z,Session expiring early,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005769,ACC-1008,billing,2026-07-16T12:50:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005770,ACC-1008,picking,2026-07-26T07:41:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005771,ACC-1008,cycle-count,2026-07-24T13:57:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005772,ACC-1008,billing,2026-07-23T13:24:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005773,ACC-1008,cycle-count,2026-07-26T11:20:00Z,Recount loop,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005774,ACC-1008,picking,2026-07-06T12:28:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005775,ACC-1008,integrations,2026-07-14T18:20:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005776,ACC-1008,auth,2026-07-19T16:11:00Z,Operator cannot log in,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005777,ACC-1008,putaway,2026-07-18T15:14:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005778,ACC-1008,cycle-count,2026-07-13T12:55:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005779,ACC-1008,cycle-count,2026-07-16T07:18:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005780,ACC-1008,receiving,2026-07-10T17:15:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005781,ACC-1008,receiving,2026-07-21T13:03:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005782,ACC-1008,picking,2026-07-04T08:22:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005783,ACC-1008,cycle-count,2026-07-07T11:26:00Z,Recount loop,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005784,ACC-1008,picking,2026-07-17T09:45:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005785,ACC-1008,putaway,2026-07-17T11:41:00Z,Zone capacity wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005786,ACC-1008,picking,2026-07-05T16:08:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005787,ACC-1008,billing,2026-07-23T16:46:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005788,ACC-1008,putaway,2026-07-12T18:23:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005789,ACC-1008,billing,2026-07-01T09:19:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005790,ACC-1008,picking,2026-07-27T14:08:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005791,ACC-1008,picking,2026-07-09T10:15:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005792,ACC-1008,picking,2026-07-12T12:04:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005793,ACC-1008,reporting,2026-07-13T18:19:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-005794,ACC-1009,receiving,2026-07-26T17:22:00Z,Pallet count differs,Reported by the Copal Andina operations team.,closed
+TCK-005795,ACC-1009,integrations,2026-07-18T08:39:00Z,API 429 on bulk post,Reported by the Copal Andina operations team.,closed
+TCK-005796,ACC-1009,billing,2026-07-04T17:38:00Z,Refund window question,Reported by the Copal Andina operations team.,closed
+TCK-005797,ACC-1009,cycle-count,2026-07-01T18:17:00Z,Recount loop,Reported by the Copal Andina operations team.,closed
+TCK-005798,ACC-1009,cycle-count,2026-07-21T12:41:00Z,Recount loop,Reported by the Copal Andina operations team.,closed
+TCK-005799,ACC-1009,billing,2026-07-09T12:41:00Z,Invoice line unexplained,Reported by the Copal Andina operations team.,closed
+TCK-005800,ACC-1009,cycle-count,2026-07-19T09:29:00Z,Recount loop,Reported by the Copal Andina operations team.,closed
+TCK-005801,ACC-1009,receiving,2026-07-16T17:02:00Z,Receipt not posting,Reported by the Copal Andina operations team.,closed
+TCK-005802,ACC-1009,reporting,2026-07-25T15:17:00Z,Figure differs from portal,Reported by the Copal Andina operations team.,closed
+TCK-005803,ACC-1009,picking,2026-07-07T07:36:00Z,Wave will not release,Reported by the Copal Andina operations team.,closed
+TCK-005804,ACC-1009,picking,2026-07-22T13:59:00Z,Short pick not recorded,Reported by the Copal Andina operations team.,closed
+TCK-005805,ACC-1009,putaway,2026-07-01T12:23:00Z,Zone capacity wrong,Reported by the Copal Andina operations team.,closed
+TCK-005806,ACC-1009,picking,2026-07-24T13:47:00Z,Pick face empty,Reported by the Copal Andina operations team.,closed
+TCK-005807,ACC-1009,putaway,2026-07-22T07:06:00Z,Directed putaway skipped,Reported by the Copal Andina operations team.,closed
+TCK-005808,ACC-1009,receiving,2026-07-06T13:54:00Z,ASN mismatch on inbound,Reported by the Copal Andina operations team.,closed
+TCK-005809,ACC-1009,picking,2026-07-27T08:56:00Z,Pick face empty,Reported by the Copal Andina operations team.,closed
+TCK-005810,ACC-1009,reporting,2026-07-25T14:40:00Z,Figure differs from portal,Reported by the Copal Andina operations team.,closed
+TCK-005811,ACC-1009,receiving,2026-07-21T07:02:00Z,Pallet count differs,Reported by the Copal Andina operations team.,closed
+TCK-005812,ACC-1009,receiving,2026-07-15T17:22:00Z,Receipt not posting,Reported by the Copal Andina operations team.,closed
+TCK-005813,ACC-1009,integrations,2026-07-04T11:26:00Z,Webhook retries exhausted,Reported by the Copal Andina operations team.,closed
+TCK-005814,ACC-1010,receiving,2026-07-08T08:28:00Z,Receipt not posting,Reported by the Fjordline Depot operations team.,closed
+TCK-005815,ACC-1010,billing,2026-07-26T18:56:00Z,Storage fees look wrong,Reported by the Fjordline Depot operations team.,closed
+TCK-005816,ACC-1010,receiving,2026-07-09T11:44:00Z,Receipt not posting,Reported by the Fjordline Depot operations team.,closed
+TCK-005817,ACC-1001,receiving,2026-08-17T13:36:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005818,ACC-1001,receiving,2026-08-26T18:57:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005819,ACC-1001,picking,2026-08-13T18:42:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005820,ACC-1001,putaway,2026-08-21T11:17:00Z,Zone capacity wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005821,ACC-1001,reporting,2026-08-14T11:20:00Z,Figure differs from portal,Reported by the Nordkai Logistics operations team.,closed
+TCK-005822,ACC-1001,cycle-count,2026-08-15T18:12:00Z,Count task not generated,Reported by the Nordkai Logistics operations team.,closed
+TCK-005823,ACC-1001,integrations,2026-08-07T16:55:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005824,ACC-1001,putaway,2026-08-26T16:13:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005825,ACC-1001,billing,2026-08-11T17:45:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005826,ACC-1001,billing,2026-08-02T15:51:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005827,ACC-1001,receiving,2026-08-13T11:30:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005828,ACC-1001,picking,2026-08-11T08:21:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005829,ACC-1001,receiving,2026-08-18T09:06:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005830,ACC-1001,receiving,2026-08-07T16:38:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005831,ACC-1001,receiving,2026-08-19T14:11:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005832,ACC-1001,auth,2026-08-23T07:42:00Z,SSO mapping wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005833,ACC-1001,putaway,2026-08-17T17:43:00Z,Putaway suggesting a full zone,Reported by the Nordkai Logistics operations team.,closed
+TCK-005834,ACC-1001,receiving,2026-08-14T13:00:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005835,ACC-1001,putaway,2026-08-03T08:53:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005836,ACC-1001,reporting,2026-08-08T15:34:00Z,Deflection number changed,Reported by the Nordkai Logistics operations team.,closed
+TCK-005837,ACC-1001,auth,2026-08-27T18:37:00Z,Session expiring early,Reported by the Nordkai Logistics operations team.,closed
+TCK-005838,ACC-1001,auth,2026-08-03T14:00:00Z,Session expiring early,Reported by the Nordkai Logistics operations team.,closed
+TCK-005839,ACC-1001,receiving,2026-08-10T15:04:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005840,ACC-1001,billing,2026-08-09T11:31:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005841,ACC-1001,putaway,2026-08-22T16:54:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005842,ACC-1001,picking,2026-08-20T17:16:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005843,ACC-1001,billing,2026-08-07T18:30:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005844,ACC-1001,putaway,2026-08-02T10:33:00Z,Zone capacity wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005845,ACC-1001,cycle-count,2026-08-26T12:41:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005846,ACC-1001,receiving,2026-08-07T13:13:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005847,ACC-1001,integrations,2026-08-04T16:18:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005848,ACC-1001,receiving,2026-08-20T12:25:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005849,ACC-1001,putaway,2026-08-12T16:00:00Z,Putaway suggesting a full zone,Reported by the Nordkai Logistics operations team.,closed
+TCK-005850,ACC-1001,cycle-count,2026-08-22T14:35:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005851,ACC-1001,cycle-count,2026-08-21T16:24:00Z,Count task not generated,Reported by the Nordkai Logistics operations team.,closed
+TCK-005852,ACC-1001,picking,2026-08-02T08:05:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005853,ACC-1001,integrations,2026-08-16T15:46:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005854,ACC-1001,picking,2026-08-14T07:25:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005855,ACC-1001,picking,2026-08-19T08:17:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005856,ACC-1001,receiving,2026-08-27T17:48:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005857,ACC-1001,auth,2026-08-19T12:59:00Z,Operator cannot log in,Reported by the Nordkai Logistics operations team.,closed
+TCK-005858,ACC-1001,cycle-count,2026-08-22T09:48:00Z,Count task not generated,Reported by the Nordkai Logistics operations team.,closed
+TCK-005859,ACC-1001,auth,2026-08-11T15:32:00Z,Session expiring early,Reported by the Nordkai Logistics operations team.,closed
+TCK-005860,ACC-1001,reporting,2026-08-25T07:36:00Z,Deflection number changed,Reported by the Nordkai Logistics operations team.,closed
+TCK-005861,ACC-1001,receiving,2026-08-03T14:54:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005862,ACC-1001,receiving,2026-08-08T15:42:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005863,ACC-1001,picking,2026-08-27T15:09:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005864,ACC-1001,billing,2026-08-22T12:13:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005865,ACC-1001,receiving,2026-08-20T11:48:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005866,ACC-1001,picking,2026-08-11T13:12:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005867,ACC-1001,picking,2026-08-27T13:02:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005868,ACC-1001,reporting,2026-08-15T11:21:00Z,Figure differs from portal,Reported by the Nordkai Logistics operations team.,closed
+TCK-005869,ACC-1001,picking,2026-08-12T11:48:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005870,ACC-1001,reporting,2026-08-11T13:08:00Z,Figure differs from portal,Reported by the Nordkai Logistics operations team.,closed
+TCK-005871,ACC-1001,receiving,2026-08-22T07:01:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005872,ACC-1001,reporting,2026-08-17T16:31:00Z,Deflection number changed,Reported by the Nordkai Logistics operations team.,closed
+TCK-005873,ACC-1001,integrations,2026-08-15T11:30:00Z,API 429 on bulk post,Reported by the Nordkai Logistics operations team.,closed
+TCK-005874,ACC-1001,picking,2026-08-27T11:59:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005875,ACC-1001,integrations,2026-08-08T07:55:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005876,ACC-1001,picking,2026-08-17T13:38:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005877,ACC-1001,billing,2026-08-07T13:12:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005878,ACC-1001,auth,2026-08-24T18:40:00Z,SSO mapping wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005879,ACC-1001,putaway,2026-08-16T12:03:00Z,Zone capacity wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005880,ACC-1001,picking,2026-08-16T14:13:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005881,ACC-1001,billing,2026-08-07T12:08:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005882,ACC-1001,receiving,2026-08-21T09:59:00Z,Pallet count differs,Reported by the Nordkai Logistics operations team.,closed
+TCK-005883,ACC-1001,picking,2026-08-13T10:24:00Z,Short pick not recorded,Reported by the Nordkai Logistics operations team.,closed
+TCK-005884,ACC-1001,picking,2026-08-17T12:12:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005885,ACC-1001,picking,2026-08-19T09:50:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005886,ACC-1001,receiving,2026-08-02T10:10:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005887,ACC-1001,integrations,2026-08-21T14:39:00Z,Webhook retries exhausted,Reported by the Nordkai Logistics operations team.,closed
+TCK-005888,ACC-1001,receiving,2026-08-21T16:13:00Z,ASN mismatch on inbound,Reported by the Nordkai Logistics operations team.,closed
+TCK-005889,ACC-1001,reporting,2026-08-22T08:27:00Z,Figure differs from portal,Reported by the Nordkai Logistics operations team.,closed
+TCK-005890,ACC-1001,billing,2026-08-21T11:23:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005891,ACC-1001,putaway,2026-08-22T14:03:00Z,Zone capacity wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005892,ACC-1001,reporting,2026-08-23T14:08:00Z,Deflection number changed,Reported by the Nordkai Logistics operations team.,closed
+TCK-005893,ACC-1001,picking,2026-08-08T13:36:00Z,Wave will not release,Reported by the Nordkai Logistics operations team.,closed
+TCK-005894,ACC-1001,billing,2026-08-24T13:57:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005895,ACC-1001,putaway,2026-08-18T16:10:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005896,ACC-1001,picking,2026-08-21T08:17:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005897,ACC-1001,billing,2026-08-09T14:34:00Z,Storage fees look wrong,Reported by the Nordkai Logistics operations team.,closed
+TCK-005898,ACC-1001,picking,2026-08-14T07:08:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005899,ACC-1001,reporting,2026-08-16T08:50:00Z,Deflection number changed,Reported by the Nordkai Logistics operations team.,closed
+TCK-005900,ACC-1001,cycle-count,2026-08-15T18:45:00Z,Recount loop,Reported by the Nordkai Logistics operations team.,closed
+TCK-005901,ACC-1001,billing,2026-08-07T12:36:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005902,ACC-1001,picking,2026-08-08T09:33:00Z,Pick face empty,Reported by the Nordkai Logistics operations team.,closed
+TCK-005903,ACC-1001,cycle-count,2026-08-11T16:50:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005904,ACC-1001,integrations,2026-08-05T11:39:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005905,ACC-1001,billing,2026-08-12T12:13:00Z,Refund window question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005906,ACC-1001,cycle-count,2026-08-19T11:52:00Z,Variance threshold question,Reported by the Nordkai Logistics operations team.,closed
+TCK-005907,ACC-1001,putaway,2026-08-12T16:16:00Z,Directed putaway skipped,Reported by the Nordkai Logistics operations team.,closed
+TCK-005908,ACC-1001,billing,2026-08-23T07:47:00Z,Invoice line unexplained,Reported by the Nordkai Logistics operations team.,closed
+TCK-005909,ACC-1001,reporting,2026-08-15T12:09:00Z,Deflection number changed,Reported by the Nordkai Logistics operations team.,closed
+TCK-005910,ACC-1001,receiving,2026-08-16T13:22:00Z,Receipt not posting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005911,ACC-1001,integrations,2026-08-02T12:31:00Z,EDI feed rejecting,Reported by the Nordkai Logistics operations team.,closed
+TCK-005912,ACC-1002,billing,2026-08-13T14:32:00Z,Invoice line unexplained,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005913,ACC-1002,picking,2026-08-26T18:48:00Z,Wave will not release,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005914,ACC-1002,integrations,2026-08-07T14:09:00Z,EDI feed rejecting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005915,ACC-1002,billing,2026-08-24T12:58:00Z,Invoice line unexplained,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005916,ACC-1002,reporting,2026-08-26T11:24:00Z,Deflection number changed,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005917,ACC-1002,billing,2026-08-05T17:28:00Z,Storage fees look wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005918,ACC-1002,putaway,2026-08-05T07:01:00Z,Putaway suggesting a full zone,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005919,ACC-1002,integrations,2026-08-21T18:16:00Z,Webhook retries exhausted,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005920,ACC-1002,picking,2026-08-04T13:33:00Z,Pick face empty,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005921,ACC-1002,reporting,2026-08-16T10:38:00Z,Figure differs from portal,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005922,ACC-1002,picking,2026-08-25T15:01:00Z,Pick face empty,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005923,ACC-1002,billing,2026-08-10T17:07:00Z,Storage fees look wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005924,ACC-1002,receiving,2026-08-18T14:29:00Z,ASN mismatch on inbound,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005925,ACC-1002,receiving,2026-08-03T14:45:00Z,Pallet count differs,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005926,ACC-1002,billing,2026-08-03T10:28:00Z,Storage fees look wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005927,ACC-1002,auth,2026-08-11T09:28:00Z,Operator cannot log in,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005928,ACC-1002,putaway,2026-08-14T08:36:00Z,Zone capacity wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005929,ACC-1002,putaway,2026-08-24T12:39:00Z,Putaway suggesting a full zone,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005930,ACC-1002,integrations,2026-08-17T08:05:00Z,EDI feed rejecting,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005931,ACC-1002,receiving,2026-08-04T08:04:00Z,Pallet count differs,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005932,ACC-1002,putaway,2026-08-03T15:43:00Z,Directed putaway skipped,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005933,ACC-1002,picking,2026-08-09T17:25:00Z,Short pick not recorded,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005934,ACC-1002,billing,2026-08-03T14:36:00Z,Storage fees look wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005935,ACC-1002,putaway,2026-08-01T16:52:00Z,Zone capacity wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005936,ACC-1002,auth,2026-08-21T14:38:00Z,SSO mapping wrong,Reported by the Tavares Distribuicao operations team.,closed
+TCK-005937,ACC-1003,reporting,2026-08-24T11:00:00Z,Deflection number changed,Reported by the Halden Cold Chain operations team.,closed
+TCK-005938,ACC-1003,receiving,2026-08-11T09:10:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005939,ACC-1003,picking,2026-08-23T08:03:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005940,ACC-1003,integrations,2026-08-05T11:47:00Z,API 429 on bulk post,Reported by the Halden Cold Chain operations team.,closed
+TCK-005941,ACC-1003,reporting,2026-08-09T11:18:00Z,Report export empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005942,ACC-1003,integrations,2026-08-11T09:28:00Z,EDI feed rejecting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005943,ACC-1003,putaway,2026-08-04T08:57:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005944,ACC-1003,putaway,2026-08-20T09:07:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-005945,ACC-1003,billing,2026-08-12T12:20:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-005946,ACC-1003,integrations,2026-08-22T15:58:00Z,Webhook retries exhausted,Reported by the Halden Cold Chain operations team.,closed
+TCK-005947,ACC-1003,picking,2026-08-18T09:02:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005948,ACC-1003,cycle-count,2026-08-11T11:25:00Z,Recount loop,Reported by the Halden Cold Chain operations team.,closed
+TCK-005949,ACC-1003,billing,2026-08-22T10:09:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005950,ACC-1003,auth,2026-08-12T08:25:00Z,Operator cannot log in,Reported by the Halden Cold Chain operations team.,closed
+TCK-005951,ACC-1003,billing,2026-08-12T14:24:00Z,Storage fees look wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005952,ACC-1003,cycle-count,2026-08-24T08:29:00Z,Recount loop,Reported by the Halden Cold Chain operations team.,closed
+TCK-005953,ACC-1003,auth,2026-08-25T11:52:00Z,Operator cannot log in,Reported by the Halden Cold Chain operations team.,closed
+TCK-005954,ACC-1003,integrations,2026-08-15T08:28:00Z,EDI feed rejecting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005955,ACC-1003,picking,2026-08-25T07:18:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005956,ACC-1003,putaway,2026-08-20T14:55:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005957,ACC-1003,picking,2026-08-09T13:43:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005958,ACC-1003,picking,2026-08-07T10:01:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005959,ACC-1003,cycle-count,2026-08-24T10:57:00Z,Variance threshold question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005960,ACC-1003,billing,2026-08-24T10:45:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005961,ACC-1003,receiving,2026-08-09T09:28:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005962,ACC-1003,reporting,2026-08-26T08:48:00Z,Figure differs from portal,Reported by the Halden Cold Chain operations team.,closed
+TCK-005963,ACC-1003,putaway,2026-08-27T10:41:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005964,ACC-1003,picking,2026-08-14T10:07:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005965,ACC-1003,putaway,2026-08-03T13:15:00Z,Directed putaway skipped,Reported by the Halden Cold Chain operations team.,closed
+TCK-005966,ACC-1003,picking,2026-08-01T17:29:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005967,ACC-1003,picking,2026-08-18T07:10:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005968,ACC-1003,cycle-count,2026-08-02T17:48:00Z,Count task not generated,Reported by the Halden Cold Chain operations team.,closed
+TCK-005969,ACC-1003,receiving,2026-08-18T09:38:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005970,ACC-1003,receiving,2026-08-24T16:41:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005971,ACC-1003,picking,2026-08-10T13:04:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005972,ACC-1003,auth,2026-08-11T14:45:00Z,SSO mapping wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005973,ACC-1003,putaway,2026-08-20T11:22:00Z,Zone capacity wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005974,ACC-1003,receiving,2026-08-02T15:14:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005975,ACC-1003,picking,2026-08-21T07:31:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005976,ACC-1003,receiving,2026-08-16T10:07:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-005977,ACC-1003,picking,2026-08-20T11:50:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005978,ACC-1003,integrations,2026-08-14T14:54:00Z,EDI feed rejecting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005979,ACC-1003,auth,2026-08-01T12:39:00Z,SSO mapping wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005980,ACC-1003,receiving,2026-08-07T13:07:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-005981,ACC-1003,billing,2026-08-17T13:18:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005982,ACC-1003,cycle-count,2026-08-03T17:38:00Z,Recount loop,Reported by the Halden Cold Chain operations team.,closed
+TCK-005983,ACC-1003,picking,2026-08-05T16:44:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005984,ACC-1003,picking,2026-08-08T10:42:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005985,ACC-1003,auth,2026-08-18T16:19:00Z,Operator cannot log in,Reported by the Halden Cold Chain operations team.,closed
+TCK-005986,ACC-1003,picking,2026-08-19T10:26:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005987,ACC-1003,picking,2026-08-02T16:40:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-005988,ACC-1003,picking,2026-08-07T15:12:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005989,ACC-1003,receiving,2026-08-12T16:34:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005990,ACC-1003,billing,2026-08-06T08:07:00Z,Storage fees look wrong,Reported by the Halden Cold Chain operations team.,closed
+TCK-005991,ACC-1003,integrations,2026-08-16T09:26:00Z,API 429 on bulk post,Reported by the Halden Cold Chain operations team.,closed
+TCK-005992,ACC-1003,picking,2026-08-08T17:24:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005993,ACC-1003,auth,2026-08-17T07:41:00Z,Operator cannot log in,Reported by the Halden Cold Chain operations team.,closed
+TCK-005994,ACC-1003,receiving,2026-08-18T08:13:00Z,ASN mismatch on inbound,Reported by the Halden Cold Chain operations team.,closed
+TCK-005995,ACC-1003,picking,2026-08-17T13:14:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005996,ACC-1003,picking,2026-08-02T08:35:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-005997,ACC-1003,billing,2026-08-11T12:37:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-005998,ACC-1003,picking,2026-08-17T13:08:00Z,Short pick not recorded,Reported by the Halden Cold Chain operations team.,closed
+TCK-005999,ACC-1003,billing,2026-08-20T13:44:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-006000,ACC-1003,picking,2026-08-15T12:10:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-006001,ACC-1003,receiving,2026-08-06T14:40:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-006002,ACC-1003,receiving,2026-08-17T16:17:00Z,Receipt not posting,Reported by the Halden Cold Chain operations team.,closed
+TCK-006003,ACC-1003,putaway,2026-08-22T14:34:00Z,Putaway suggesting a full zone,Reported by the Halden Cold Chain operations team.,closed
+TCK-006004,ACC-1003,billing,2026-08-08T15:54:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-006005,ACC-1003,receiving,2026-08-22T15:06:00Z,Pallet count differs,Reported by the Halden Cold Chain operations team.,closed
+TCK-006006,ACC-1003,billing,2026-08-14T10:30:00Z,Invoice line unexplained,Reported by the Halden Cold Chain operations team.,closed
+TCK-006007,ACC-1003,cycle-count,2026-08-13T09:04:00Z,Count task not generated,Reported by the Halden Cold Chain operations team.,closed
+TCK-006008,ACC-1003,integrations,2026-08-03T07:12:00Z,Webhook retries exhausted,Reported by the Halden Cold Chain operations team.,closed
+TCK-006009,ACC-1003,picking,2026-08-17T14:22:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-006010,ACC-1003,picking,2026-08-04T12:02:00Z,Wave will not release,Reported by the Halden Cold Chain operations team.,closed
+TCK-006011,ACC-1003,cycle-count,2026-08-02T10:52:00Z,Recount loop,Reported by the Halden Cold Chain operations team.,closed
+TCK-006012,ACC-1003,billing,2026-08-02T11:14:00Z,Refund window question,Reported by the Halden Cold Chain operations team.,closed
+TCK-006013,ACC-1003,picking,2026-08-11T18:41:00Z,Pick face empty,Reported by the Halden Cold Chain operations team.,closed
+TCK-006014,ACC-1004,receiving,2026-08-02T14:48:00Z,Receipt not posting,Reported by the Brightpath Freight operations team.,closed
+TCK-006015,ACC-1004,reporting,2026-08-09T13:32:00Z,Report export empty,Reported by the Brightpath Freight operations team.,closed
+TCK-006016,ACC-1004,picking,2026-08-26T16:35:00Z,Wave will not release,Reported by the Brightpath Freight operations team.,closed
+TCK-006017,ACC-1004,cycle-count,2026-08-11T15:53:00Z,Recount loop,Reported by the Brightpath Freight operations team.,closed
+TCK-006018,ACC-1004,auth,2026-08-10T07:01:00Z,Session expiring early,Reported by the Brightpath Freight operations team.,closed
+TCK-006019,ACC-1004,picking,2026-08-05T07:42:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-006020,ACC-1004,receiving,2026-08-27T10:38:00Z,Pallet count differs,Reported by the Brightpath Freight operations team.,closed
+TCK-006021,ACC-1004,reporting,2026-08-04T10:05:00Z,Report export empty,Reported by the Brightpath Freight operations team.,closed
+TCK-006022,ACC-1004,putaway,2026-08-11T16:29:00Z,Directed putaway skipped,Reported by the Brightpath Freight operations team.,closed
+TCK-006023,ACC-1004,picking,2026-08-18T16:59:00Z,Pick face empty,Reported by the Brightpath Freight operations team.,closed
+TCK-006024,ACC-1004,cycle-count,2026-08-27T17:59:00Z,Variance threshold question,Reported by the Brightpath Freight operations team.,closed
+TCK-006025,ACC-1004,picking,2026-08-13T13:02:00Z,Wave will not release,Reported by the Brightpath Freight operations team.,closed
+TCK-006026,ACC-1004,integrations,2026-08-12T07:17:00Z,Webhook retries exhausted,Reported by the Brightpath Freight operations team.,closed
+TCK-006027,ACC-1004,putaway,2026-08-25T17:21:00Z,Putaway suggesting a full zone,Reported by the Brightpath Freight operations team.,closed
+TCK-006028,ACC-1004,integrations,2026-08-22T15:29:00Z,EDI feed rejecting,Reported by the Brightpath Freight operations team.,closed
+TCK-006029,ACC-1004,billing,2026-08-10T16:35:00Z,Invoice line unexplained,Reported by the Brightpath Freight operations team.,closed
+TCK-006030,ACC-1004,integrations,2026-08-13T07:49:00Z,EDI feed rejecting,Reported by the Brightpath Freight operations team.,closed
+TCK-006031,ACC-1004,receiving,2026-08-20T15:23:00Z,Receipt not posting,Reported by the Brightpath Freight operations team.,closed
+TCK-006032,ACC-1004,picking,2026-08-13T09:47:00Z,Short pick not recorded,Reported by the Brightpath Freight operations team.,closed
+TCK-006033,ACC-1004,cycle-count,2026-08-17T09:41:00Z,Recount loop,Reported by the Brightpath Freight operations team.,closed
+TCK-006034,ACC-1004,integrations,2026-08-10T07:00:00Z,EDI feed rejecting,Reported by the Brightpath Freight operations team.,closed
+TCK-006035,ACC-1004,cycle-count,2026-08-08T13:58:00Z,Variance threshold question,Reported by the Brightpath Freight operations team.,closed
+TCK-006036,ACC-1004,integrations,2026-08-07T13:22:00Z,EDI feed rejecting,Reported by the Brightpath Freight operations team.,closed
+TCK-006037,ACC-1004,integrations,2026-08-02T18:37:00Z,Webhook retries exhausted,Reported by the Brightpath Freight operations team.,closed
+TCK-006038,ACC-1004,integrations,2026-08-17T17:01:00Z,Webhook retries exhausted,Reported by the Brightpath Freight operations team.,closed
+TCK-006039,ACC-1004,auth,2026-08-10T17:06:00Z,Session expiring early,Reported by the Brightpath Freight operations team.,closed
+TCK-006040,ACC-1004,putaway,2026-08-14T13:44:00Z,Zone capacity wrong,Reported by the Brightpath Freight operations team.,closed
+TCK-006041,ACC-1004,billing,2026-08-17T13:22:00Z,Refund window question,Reported by the Brightpath Freight operations team.,closed
+TCK-006042,ACC-1004,auth,2026-08-06T07:16:00Z,Session expiring early,Reported by the Brightpath Freight operations team.,closed
+TCK-006043,ACC-1004,receiving,2026-08-05T13:32:00Z,Pallet count differs,Reported by the Brightpath Freight operations team.,closed
+TCK-006044,ACC-1004,picking,2026-08-02T11:20:00Z,Wave will not release,Reported by the Brightpath Freight operations team.,closed
+TCK-006045,ACC-1004,auth,2026-08-20T18:11:00Z,Session expiring early,Reported by the Brightpath Freight operations team.,closed
+TCK-006046,ACC-1004,billing,2026-08-22T11:15:00Z,Refund window question,Reported by the Brightpath Freight operations team.,closed
+TCK-006047,ACC-1004,putaway,2026-08-27T08:55:00Z,Directed putaway skipped,Reported by the Brightpath Freight operations team.,closed
+TCK-006048,ACC-1005,cycle-count,2026-08-20T11:46:00Z,Count task not generated,Reported by the Meseta Almacenes operations team.,closed
+TCK-006049,ACC-1005,cycle-count,2026-08-15T16:37:00Z,Recount loop,Reported by the Meseta Almacenes operations team.,closed
+TCK-006050,ACC-1005,receiving,2026-08-11T16:25:00Z,ASN mismatch on inbound,Reported by the Meseta Almacenes operations team.,closed
+TCK-006051,ACC-1005,billing,2026-08-13T15:41:00Z,Invoice line unexplained,Reported by the Meseta Almacenes operations team.,closed
+TCK-006052,ACC-1005,auth,2026-08-08T12:57:00Z,Operator cannot log in,Reported by the Meseta Almacenes operations team.,closed
+TCK-006053,ACC-1005,putaway,2026-08-25T07:00:00Z,Directed putaway skipped,Reported by the Meseta Almacenes operations team.,closed
+TCK-006054,ACC-1005,picking,2026-08-22T13:36:00Z,Short pick not recorded,Reported by the Meseta Almacenes operations team.,closed
+TCK-006055,ACC-1006,reporting,2026-08-09T12:17:00Z,Report export empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006056,ACC-1006,integrations,2026-08-26T08:35:00Z,API 429 on bulk post,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006057,ACC-1006,putaway,2026-08-15T10:01:00Z,Directed putaway skipped,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006058,ACC-1006,picking,2026-08-06T07:50:00Z,Short pick not recorded,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006059,ACC-1006,integrations,2026-08-13T15:23:00Z,API 429 on bulk post,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006060,ACC-1006,putaway,2026-08-16T12:39:00Z,Directed putaway skipped,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006061,ACC-1006,receiving,2026-08-20T18:23:00Z,Receipt not posting,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006062,ACC-1006,receiving,2026-08-12T09:26:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006063,ACC-1006,billing,2026-08-24T17:52:00Z,Invoice line unexplained,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006064,ACC-1006,picking,2026-08-08T11:32:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006065,ACC-1006,billing,2026-08-27T12:15:00Z,Refund window question,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006066,ACC-1006,cycle-count,2026-08-01T10:36:00Z,Count task not generated,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006067,ACC-1006,receiving,2026-08-03T08:16:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006068,ACC-1006,picking,2026-08-20T14:54:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006069,ACC-1006,billing,2026-08-25T12:39:00Z,Invoice line unexplained,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006070,ACC-1006,receiving,2026-08-14T08:40:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006071,ACC-1006,picking,2026-08-03T14:42:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006072,ACC-1006,picking,2026-08-25T11:20:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006073,ACC-1006,picking,2026-08-13T16:39:00Z,Short pick not recorded,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006074,ACC-1006,receiving,2026-08-22T12:03:00Z,ASN mismatch on inbound,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006075,ACC-1006,receiving,2026-08-22T13:18:00Z,Receipt not posting,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006076,ACC-1006,billing,2026-08-15T09:08:00Z,Invoice line unexplained,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006077,ACC-1006,picking,2026-08-09T18:20:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006078,ACC-1006,picking,2026-08-20T09:42:00Z,Pick face empty,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006079,ACC-1006,reporting,2026-08-16T09:21:00Z,Deflection number changed,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006080,ACC-1006,picking,2026-08-07T14:40:00Z,Wave will not release,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006081,ACC-1006,billing,2026-08-17T07:51:00Z,Refund window question,Reported by the Kestrel Parts Group operations team.,closed
+TCK-006082,ACC-1007,billing,2026-08-18T09:59:00Z,Refund window question,Reported by the Vlietwerk BV operations team.,closed
+TCK-006083,ACC-1007,receiving,2026-08-25T15:28:00Z,Pallet count differs,Reported by the Vlietwerk BV operations team.,closed
+TCK-006084,ACC-1007,receiving,2026-08-13T08:19:00Z,Pallet count differs,Reported by the Vlietwerk BV operations team.,closed
+TCK-006085,ACC-1007,billing,2026-08-04T13:51:00Z,Refund window question,Reported by the Vlietwerk BV operations team.,closed
+TCK-006086,ACC-1007,billing,2026-08-02T17:52:00Z,Refund window question,Reported by the Vlietwerk BV operations team.,closed
+TCK-006087,ACC-1008,picking,2026-08-16T07:27:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006088,ACC-1008,reporting,2026-08-01T16:11:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006089,ACC-1008,reporting,2026-08-06T07:33:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006090,ACC-1008,billing,2026-08-19T12:02:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006091,ACC-1008,picking,2026-08-20T08:05:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006092,ACC-1008,reporting,2026-08-14T14:31:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006093,ACC-1008,integrations,2026-08-07T17:48:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006094,ACC-1008,picking,2026-08-18T11:31:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006095,ACC-1008,integrations,2026-08-12T16:23:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006096,ACC-1008,reporting,2026-08-20T08:28:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006097,ACC-1008,picking,2026-08-22T10:15:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006098,ACC-1008,billing,2026-08-13T10:08:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006099,ACC-1008,receiving,2026-08-16T09:22:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006100,ACC-1008,receiving,2026-08-03T13:37:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006101,ACC-1008,receiving,2026-08-15T17:32:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006102,ACC-1008,billing,2026-08-21T17:56:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006103,ACC-1008,putaway,2026-08-23T14:59:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006104,ACC-1008,picking,2026-08-06T12:10:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006105,ACC-1008,picking,2026-08-10T17:24:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006106,ACC-1008,auth,2026-08-18T07:06:00Z,SSO mapping wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006107,ACC-1008,cycle-count,2026-08-18T18:13:00Z,Recount loop,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006108,ACC-1008,auth,2026-08-18T18:50:00Z,Session expiring early,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006109,ACC-1008,integrations,2026-08-02T11:29:00Z,API 429 on bulk post,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006110,ACC-1008,auth,2026-08-23T16:00:00Z,Operator cannot log in,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006111,ACC-1008,picking,2026-08-27T12:15:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006112,ACC-1008,picking,2026-08-01T11:56:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006113,ACC-1008,picking,2026-08-14T10:55:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006114,ACC-1008,putaway,2026-08-08T08:08:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006115,ACC-1008,receiving,2026-08-05T13:40:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006116,ACC-1008,receiving,2026-08-05T10:56:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006117,ACC-1008,integrations,2026-08-11T07:18:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006118,ACC-1008,billing,2026-08-25T07:13:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006119,ACC-1008,billing,2026-08-01T16:34:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006120,ACC-1008,receiving,2026-08-15T11:40:00Z,ASN mismatch on inbound,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006121,ACC-1008,picking,2026-08-06T18:06:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006122,ACC-1008,integrations,2026-08-24T07:31:00Z,EDI feed rejecting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006123,ACC-1008,integrations,2026-08-26T15:22:00Z,API 429 on bulk post,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006124,ACC-1008,picking,2026-08-15T08:44:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006125,ACC-1008,putaway,2026-08-27T18:57:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006126,ACC-1008,cycle-count,2026-08-09T08:49:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006127,ACC-1008,picking,2026-08-11T18:53:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006128,ACC-1008,billing,2026-08-25T09:10:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006129,ACC-1008,picking,2026-08-04T16:11:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006130,ACC-1008,picking,2026-08-27T10:11:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006131,ACC-1008,auth,2026-08-19T15:13:00Z,Operator cannot log in,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006132,ACC-1008,cycle-count,2026-08-13T07:04:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006133,ACC-1008,cycle-count,2026-08-08T15:12:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006134,ACC-1008,cycle-count,2026-08-08T12:15:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006135,ACC-1008,picking,2026-08-26T13:43:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006136,ACC-1008,picking,2026-08-25T10:52:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006137,ACC-1008,auth,2026-08-21T11:06:00Z,SSO mapping wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006138,ACC-1008,receiving,2026-08-22T14:21:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006139,ACC-1008,receiving,2026-08-10T18:52:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006140,ACC-1008,integrations,2026-08-18T15:51:00Z,API 429 on bulk post,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006141,ACC-1008,reporting,2026-08-12T16:45:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006142,ACC-1008,auth,2026-08-25T11:34:00Z,Session expiring early,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006143,ACC-1008,cycle-count,2026-08-05T07:15:00Z,Recount loop,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006144,ACC-1008,picking,2026-08-02T09:11:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006145,ACC-1008,reporting,2026-08-20T16:09:00Z,Report export empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006146,ACC-1008,picking,2026-08-12T08:20:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006147,ACC-1008,receiving,2026-08-08T12:15:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006148,ACC-1008,picking,2026-08-23T16:04:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006149,ACC-1008,picking,2026-08-05T17:12:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006150,ACC-1008,billing,2026-08-23T10:19:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006151,ACC-1008,billing,2026-08-25T17:58:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006152,ACC-1008,reporting,2026-08-26T13:18:00Z,Report export empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006153,ACC-1008,integrations,2026-08-27T09:08:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006154,ACC-1008,picking,2026-08-14T09:26:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006155,ACC-1008,putaway,2026-08-08T13:21:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006156,ACC-1008,reporting,2026-08-11T13:49:00Z,Report export empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006157,ACC-1008,picking,2026-08-15T14:35:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006158,ACC-1008,putaway,2026-08-26T09:27:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006159,ACC-1008,billing,2026-08-12T11:31:00Z,Invoice line unexplained,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006160,ACC-1008,receiving,2026-08-14T13:33:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006161,ACC-1008,picking,2026-08-06T09:48:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006162,ACC-1008,integrations,2026-08-12T13:34:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006163,ACC-1008,billing,2026-08-21T10:52:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006164,ACC-1008,receiving,2026-08-03T15:46:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006165,ACC-1008,picking,2026-08-01T16:35:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006166,ACC-1008,picking,2026-08-24T14:52:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006167,ACC-1008,putaway,2026-08-07T09:10:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006168,ACC-1008,picking,2026-08-27T14:17:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006169,ACC-1008,putaway,2026-08-10T18:39:00Z,Zone capacity wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006170,ACC-1008,picking,2026-08-02T15:27:00Z,Short pick not recorded,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006171,ACC-1008,cycle-count,2026-08-03T15:04:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006172,ACC-1008,reporting,2026-08-26T10:22:00Z,Deflection number changed,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006173,ACC-1008,auth,2026-08-15T14:19:00Z,Operator cannot log in,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006174,ACC-1008,cycle-count,2026-08-22T13:00:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006175,ACC-1008,receiving,2026-08-01T13:47:00Z,Pallet count differs,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006176,ACC-1008,integrations,2026-08-16T17:19:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006177,ACC-1008,picking,2026-08-26T15:07:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006178,ACC-1008,picking,2026-08-18T13:57:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006179,ACC-1008,cycle-count,2026-08-23T14:46:00Z,Recount loop,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006180,ACC-1008,cycle-count,2026-08-27T15:58:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006181,ACC-1008,cycle-count,2026-08-27T11:28:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006182,ACC-1008,cycle-count,2026-08-13T16:35:00Z,Recount loop,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006183,ACC-1008,cycle-count,2026-08-22T16:47:00Z,Recount loop,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006184,ACC-1008,integrations,2026-08-05T07:11:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006185,ACC-1008,cycle-count,2026-08-09T18:24:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006186,ACC-1008,billing,2026-08-18T14:22:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006187,ACC-1008,receiving,2026-08-17T08:13:00Z,Receipt not posting,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006188,ACC-1008,cycle-count,2026-08-08T10:35:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006189,ACC-1008,picking,2026-08-12T11:43:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006190,ACC-1008,picking,2026-08-19T11:52:00Z,Wave will not release,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006191,ACC-1008,putaway,2026-08-03T12:16:00Z,Directed putaway skipped,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006192,ACC-1008,cycle-count,2026-08-06T16:38:00Z,Count task not generated,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006193,ACC-1008,billing,2026-08-03T08:43:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006194,ACC-1008,cycle-count,2026-08-11T18:05:00Z,Variance threshold question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006195,ACC-1008,auth,2026-08-22T10:29:00Z,SSO mapping wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006196,ACC-1008,integrations,2026-08-17T17:39:00Z,Webhook retries exhausted,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006197,ACC-1008,billing,2026-08-27T07:21:00Z,Refund window question,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006198,ACC-1008,reporting,2026-08-14T14:38:00Z,Figure differs from portal,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006199,ACC-1008,picking,2026-08-25T16:25:00Z,Pick face empty,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006200,ACC-1008,billing,2026-08-22T10:01:00Z,Storage fees look wrong,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006201,ACC-1008,putaway,2026-08-20T15:52:00Z,Putaway suggesting a full zone,Reported by the Sunder Retail Supply operations team.,closed
+TCK-006202,ACC-1009,billing,2026-08-01T07:54:00Z,Invoice line unexplained,Reported by the Copal Andina operations team.,closed
+TCK-006203,ACC-1009,putaway,2026-08-17T13:25:00Z,Directed putaway skipped,Reported by the Copal Andina operations team.,closed
+TCK-006204,ACC-1009,reporting,2026-08-11T13:46:00Z,Report export empty,Reported by the Copal Andina operations team.,closed
+TCK-006205,ACC-1009,picking,2026-08-24T08:10:00Z,Pick face empty,Reported by the Copal Andina operations team.,closed
+TCK-006206,ACC-1009,auth,2026-08-26T14:34:00Z,Session expiring early,Reported by the Copal Andina operations team.,closed
+TCK-006207,ACC-1009,picking,2026-08-06T11:57:00Z,Short pick not recorded,Reported by the Copal Andina operations team.,closed
+TCK-006208,ACC-1009,reporting,2026-08-15T15:08:00Z,Report export empty,Reported by the Copal Andina operations team.,closed
+TCK-006209,ACC-1009,billing,2026-08-17T13:05:00Z,Refund window question,Reported by the Copal Andina operations team.,closed
+TCK-006210,ACC-1009,receiving,2026-08-07T12:26:00Z,Receipt not posting,Reported by the Copal Andina operations team.,closed
+TCK-006211,ACC-1009,picking,2026-08-08T18:30:00Z,Pick face empty,Reported by the Copal Andina operations team.,closed
+TCK-006212,ACC-1009,receiving,2026-08-02T17:09:00Z,Pallet count differs,Reported by the Copal Andina operations team.,closed
+TCK-006213,ACC-1009,receiving,2026-08-10T17:22:00Z,Pallet count differs,Reported by the Copal Andina operations team.,closed
+TCK-006214,ACC-1009,receiving,2026-08-17T12:05:00Z,ASN mismatch on inbound,Reported by the Copal Andina operations team.,closed
+TCK-006215,ACC-1009,auth,2026-08-10T09:50:00Z,Operator cannot log in,Reported by the Copal Andina operations team.,closed
+TCK-006216,ACC-1009,integrations,2026-08-07T10:02:00Z,Webhook retries exhausted,Reported by the Copal Andina operations team.,closed
+TCK-006217,ACC-1009,integrations,2026-08-08T12:59:00Z,Webhook retries exhausted,Reported by the Copal Andina operations team.,closed
+TCK-006218,ACC-1009,putaway,2026-08-25T12:48:00Z,Putaway suggesting a full zone,Reported by the Copal Andina operations team.,closed
+TCK-006219,ACC-1009,billing,2026-08-23T10:16:00Z,Storage fees look wrong,Reported by the Copal Andina operations team.,closed
+TCK-006220,ACC-1009,billing,2026-08-23T09:14:00Z,Storage fees look wrong,Reported by the Copal Andina operations team.,closed
+TCK-006221,ACC-1009,picking,2026-08-19T10:01:00Z,Wave will not release,Reported by the Copal Andina operations team.,closed
+TCK-006222,ACC-1010,picking,2026-08-20T12:51:00Z,Short pick not recorded,Reported by the Fjordline Depot operations team.,closed
+TCK-006223,ACC-1010,putaway,2026-08-07T16:23:00Z,Putaway suggesting a full zone,Reported by the Fjordline Depot operations team.,closed
+TCK-006224,ACC-1010,integrations,2026-08-09T09:18:00Z,EDI feed rejecting,Reported by the Fjordline Depot operations team.,closed

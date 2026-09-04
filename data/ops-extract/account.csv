@@ -1,0 +1,11 @@
+account_id,name,tier,region,seats,modules,pilot
+ACC-1001,Nordkai Logistics,enterprise,EU,340,"receiving,putaway,picking,billing,integrations",1
+ACC-1002,Tavares Distribuicao,business,LATAM,88,"receiving,picking,cycle-count",1
+ACC-1003,Halden Cold Chain,enterprise,EU,275,"receiving,putaway,picking,cycle-count,integrations",1
+ACC-1004,Brightpath Freight,business,NA,120,"picking,billing",1
+ACC-1005,Meseta Almacenes,standard,LATAM,24,"receiving,picking",0
+ACC-1006,Kestrel Parts Group,business,NA,96,"receiving,putaway,billing,integrations",1
+ACC-1007,Vlietwerk BV,standard,EU,18,picking,0
+ACC-1008,Sunder Retail Supply,enterprise,NA,410,"receiving,putaway,picking,cycle-count,billing,integrations",1
+ACC-1009,Copal Andina,business,LATAM,71,"receiving,cycle-count",0
+ACC-1010,Fjordline Depot,standard,EU,12,receiving,0

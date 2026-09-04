@@ -1,0 +1,4 @@
+tier,first_response_mins,resolution_hours,human_review_areas
+enterprise,30,8,"billing,integrations"
+business,60,16,billing
+standard,480,40,
