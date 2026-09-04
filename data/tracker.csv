@@ -1,0 +1,11 @@
+item,title,kind,status,owner,opened,last_touched,notes
+ISS-30,No list of who consumes which metric,improvement,open,P-SOF,2026-08-06,,"Came out of INC-03. Nobody has picked it up."
+ISS-31,Marts have no declared contract,improvement,Open,P-DEC,2026-08-08,2026-08-20,"Reporting reads three marts and nothing declares their shape."
+ISS-32,Deflection reads 0.0 for non-pilot accounts,bug,open,P-DEC,2026-08-12,,"Reads as failure. Should be not applicable."
+ISS-34,Monthly refresh has no schedule,chore,In Progress,,2026-08-14,2026-08-25,"Packs have twice been built on stale figures."
+ISS-36,Requests are not deduplicated,improvement,open,P-SOF,2026-08-19,,"REQ-007 and REQ-011 may be the same number."
+ISS-37,rebuild.py drops a mart with no approval,bug,Open,P-DEC,2026-08-21,,"POL-06 requires a named approver."
+ISS-38,Warehouse rebuild takes 40 minutes,performance,open,,2026-07-02,,"Carried over from the old warehouse. Current build is under two seconds."
+REQ-007,Deflection for the August packs,request,open,P-DEC,2026-08-11,2026-08-28,"Due 09-04. Which definition version was not stated."
+REQ-011,Automation rate for the August packs,request,open,,2026-08-18,,"Possibly the same as REQ-007. Not checked."
+REQ-013,Escalations open at month end,request,In Progress,P-DEC,2026-08-24,2026-08-30,"Due 09-04."

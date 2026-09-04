@@ -1,0 +1,12 @@
+request_id,from_team,requester,received,needed_by,status,summary
+REQ-004,Reporting,P-LUC,2026-07-28,2026-08-05,done,Deflection per account for the July packs
+REQ-005,Product,P-ANA,2026-07-30,,Open,Whether pilot accounts resolve faster than non-pilot
+REQ-006,Reporting,P-LUC,2026-08-03,2026-08-05,DONE,SLA attainment per Enterprise account for July
+REQ-007,Reporting,P-LUC,2026-08-11,2026-09-04,open,Deflection per account for the August packs
+REQ-008,Assist engineering,P-KOF,2026-08-12,,in progress,Ticket volume by area so routing can be weighted
+REQ-009,Product,P-GAB,2026-08-14,2026-08-29,closed,A number for the Nordkai renewal conversation
+REQ-010,Product,P-ANA,2026-08-17,,Open,Adoption measures for the launch decision
+REQ-011,Reporting,P-HEN,2026-08-18,2026-09-04,open,Automation rate per account for the August packs
+REQ-012,Assist engineering,P-MEI,2026-08-21,,open,How often a proposal is edited before sending
+REQ-013,Reporting,P-LUC,2026-08-24,2026-09-04,In Progress,Escalations open at month end per Enterprise account
+REQ-014,Product,P-ANA,2026-08-26,,open,Does deflection differ by product area

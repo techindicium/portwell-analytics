@@ -1,0 +1,17 @@
+# Analytics additions.
+
+PYTEST_PATHS =
+
+.PHONY: build warehouse dictionary
+
+# Build the warehouse and run the column tests.
+build:
+	@$(PYTHON) project/run.py
+
+# Build without running the tests.
+warehouse:
+	@$(PYTHON) project/run.py --no-tests
+
+# Run the column tests against whatever is already built.
+test-data:
+	@$(PYTHON) project/run.py --tests-only

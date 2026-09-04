@@ -1,65 +1,63 @@
-# How the {{TRACK_UPPER}} work gets done today
+# How the analytics work gets done today
 
 Written by whoever was asked to write it, at some point, and not revised since. It is the only
 description of the process that exists.
 
 > **A note for the reader.** This is not a specification. Parts of it are optimistic, parts are
-> contradicted by the tracker and by the write-ups in `docs/incidents/`, and the parts that
-> describe judgment calls do not say who makes them.
+> contradicted by `data/requests/inbox.csv` and by the write-ups in `docs/incidents/`, and the
+> parts that describe judgment calls do not say who makes them.
 
 ## The rough shape
 
-1. Something arrives. It might be a request, a report, a question, or a decision somebody needs.
-2. Whoever picks it up works out what it involves, mostly by asking someone who was there last
-   time.
-3. They do the work.
-4. Someone else looks at it, when there is time.
-5. It ships, or it is handed on, or it stalls and nobody notices for a while.
-6. If it goes wrong, that surfaces later, usually from outside.
+1. A request arrives from another team, usually in a message, occasionally in a meeting.
+2. It goes in `data/requests/inbox.csv`. Some requests never make it there.
+3. Somebody works out what the request actually means. This is the hard part and it leaves no
+   record.
+4. They write or extend a model in `project/models/`, run `project/run.py`, and read the number.
+5. They send the number back, usually pasted into a message or a spreadsheet.
+6. If a definition changed, whoever consumed the old number finds out when a customer asks.
 
-## Where it is written down
+## The monthly refresh
+
+`project/run.py` is meant to be run at the start of each month so the packs have current
+figures. There is no schedule. It runs when somebody remembers, or when Reporting asks why a
+number looks like last month's.
+
+## Where things are written down
 
 | Thing | Where it lives | Kept current? |
 | :- | :- | :- |
-| What is in flight | the tracker | Partly. Statuses are not consistent and some are stale. |
-| What was decided | Mostly nowhere. Some in the tracker's notes column. | No |
-| Why it was decided | In the heads of the people involved | No |
-| What was checked before it shipped | Whatever the pull request or handoff note happens to say | No |
-| What went wrong afterwards | `docs/incidents/`, written after the fact | Only for incidents big enough to write up |
+| Requests in flight | `data/requests/inbox.csv` | Partly. Seven spellings of four statuses. Five requests have no deadline. |
+| What a request actually meant | Nowhere | No |
+| Metric definitions | `project/metrics/metric-definitions.yaml` | Yes, and this is the one thing that is |
+| Which consumers pinned which version | Nowhere | No |
+| The data dictionary | `docs/data-dictionary.xlsx` | No. Out of date against the models in at least two places. |
+| When the warehouse was last built | `staging.extract_metadata`, inside the build | Only until the next build overwrites it |
 
 ## The judgment calls nobody wrote down
 
-These get made every week. The process does not say who makes them, on what evidence, or what
-happens when the answer is unclear.
-
-- Whether a thing is small enough to do without asking anyone.
-- Whether a source is current enough to rely on.
-- Whether something needs review, and who is qualified to give it.
-- When to stop trying and escalate.
-- What counts as done.
+- Whether two requests are asking for the same number. `REQ-007` and `REQ-011` are the current
+  example and nobody has checked.
+- Whether a request is specified well enough to answer, or needs to go back.
+- Whether a definition change is safe to apply while a reporting period is open.
+- Whether a figure is fit to leave the team, and for what audience.
+- When a model is wrong versus when the data is wrong.
 
 ## What people say about it
 
-Kept verbatim, because the wording matters.
+> "I can find out what we published. I cannot find out why anyone wanted it."
+> Analytics lead, on the request queue.
 
-> "It works fine until the person who knows leaves." Support engineer, retrospective note.
+> "We changed the definition. Nobody was told, because there is no list of who to tell."
+> Analytics lead, on the deflection incident.
 
-> "I can find out what we did. I cannot find out why." Analytics lead, on the tracker.
+## The read-only boundary, which is the one thing that is enforced
 
-> "Nobody skipped the check. There was no check." Head of Engineering, on `INC-02`.
+The warehouse attaches the operational database read-only:
 
-## The two incidents
+```sql
+ATTACH '../portwell-assist/data/portwell_ops.db' AS ops (TYPE sqlite, READ_ONLY);
+```
 
-Both came out of the Assist pilot. Both are written up in `docs/incidents/`. Neither had a
-control that would have caught it, which is the point of writing them up here.
-
-| Incident | What happened |
-| :- | :- |
-| `INC-01` | A superseded refund window reached a customer. |
-| `INC-02` | Advice to disable a webhook retry stopped an account's inbound feed. |
-
-## If this document is wrong
-
-It probably is, in places. The tracker and the incident write-ups are the record of what
-happened; this is one person's account of how it is supposed to happen. Where they disagree,
-the record wins.
+A write against `ops` fails. That is the only constraint in this repository that anything
+actually enforces.
