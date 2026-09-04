@@ -36,7 +36,7 @@ number looks like last month's.
 
 ## The judgment calls nobody wrote down
 
-- Whether two requests are asking for the same number. `REQ-007` and `REQ-011` are the current
+- Whether two requests are asking for the same number. `REQUEST-007` and `REQUEST-011` are the current
   example and nobody has checked.
 - Whether a request is specified well enough to answer, or needs to go back.
 - Whether a definition change is safe to apply while a reporting period is open.

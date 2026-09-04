@@ -27,6 +27,6 @@ them: no column list, no types, no statement of what the grain is, and no versio
 
 ## The consumer list that does not exist
 
-`POL-05` requires a definition change to be announced one reporting period ahead. Announcing
-requires knowing who consumes what. Nothing here records that. `docs/incidents/INC-03.md` is
+`POLICY-05` requires a definition change to be announced one reporting period ahead. Announcing
+requires knowing who consumes what. Nothing here records that. `docs/incidents/INCIDENT-03.md` is
 what happened as a result.

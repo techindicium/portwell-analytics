@@ -1,5 +1,5 @@
 # contract: metric-definitions
-# owner: P-SOF
+# owner: Sofia Marques
 # published_at: 2026-08-20
 # note: This file is the source. Assist engineering and Reporting both consume it. Consumers
 #       are expected to pin a version. Nothing checks that they do.
@@ -13,7 +13,7 @@ metrics:
     numerator: tickets where proposal_sent is true and human_edit_material is false
     denominator: tickets closed in the period
     excludes: tickets reopened within 48 hours
-    owner: P-SOF
+    owner: Sofia Marques
     effective_from: 2026-07-01
     supersedes: 2
 
@@ -25,7 +25,7 @@ metrics:
     numerator: tickets where proposal_sent is true
     denominator: tickets closed in the period
     excludes: nothing
-    owner: P-SOF
+    owner: Sofia Marques
     effective_from: 2026-04-01
     superseded_by: 3
     status: superseded
@@ -35,7 +35,7 @@ metrics:
     definition: >
       Median minutes between ticket creation and the first outbound interaction.
     grain: account-period
-    owner: P-SOF
+    owner: Sofia Marques
     effective_from: 2026-02-01
     minimum_denominator: 20
 
@@ -44,5 +44,5 @@ metrics:
     definition: >
       Share of proposals sent without material edit, of proposals created.
     grain: account-period
-    owner: P-SOF
+    owner: Sofia Marques
     effective_from: 2026-06-15

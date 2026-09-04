@@ -1,6 +1,6 @@
 # Change note 0088: deflection definition version 3
 
-**Merged:** 2026-06-27, effective 2026-07-01. **Author:** P-SOF. **Reviewer:** P-DEC.
+**Merged:** 2026-06-27, effective 2026-07-01. **Author:** Sofia Marques. **Reviewer:** Declan Byrne.
 
 ## What changed
 
@@ -26,5 +26,5 @@ version 2 and changing the mart mid-period would have made two months incomparab
 
 The intention was to update the mart once June was closed. That did not happen.
 
-Nobody was told the definition had changed. `POL-05` says a change is announced one reporting
+Nobody was told the definition had changed. `POLICY-05` says a change is announced one reporting
 period ahead. There is no list of consumers to announce it to.

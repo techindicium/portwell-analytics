@@ -8,8 +8,8 @@ system did.
 
 | File | Is |
 | :- | :- |
-| `INC-01.md` | A superseded refund window reached a customer. |
-| `INC-02.md` | Advice to disable a webhook retry stopped an account's inbound feed. |
+| `INCIDENT-01.md` | A superseded refund window reached a customer. |
+| `INCIDENT-02.md` | Advice to disable a webhook retry stopped an account's inbound feed. |
 
 ## Reading the tracker
 

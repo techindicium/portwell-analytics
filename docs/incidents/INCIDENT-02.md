@@ -1,4 +1,4 @@
-# INC-02: retry advice stopped an inbound feed
+# INCIDENT-02: retry advice stopped an inbound feed
 
 **Written:** 2026-07-29, by the solution consultant who took the escalation.
 **Severity:** an account's inbound EDI feed stopped for most of a working day.

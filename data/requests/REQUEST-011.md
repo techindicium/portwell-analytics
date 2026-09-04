@@ -1,6 +1,6 @@
-# REQ-011: automation rate per account for the August packs
+# REQUEST-011: automation rate per account for the August packs
 
-**From:** Reporting, `P-HEN`
+**From:** Reporting, Henrik Sole
 **Received:** 2026-08-18
 **Needed by:** 2026-09-04
 

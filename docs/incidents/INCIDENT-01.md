@@ -1,4 +1,4 @@
-# INC-01: a superseded refund window reached a customer
+# INCIDENT-01: a superseded refund window reached a customer
 
 **Written:** 2026-07-14, three days after the fact, by whoever was on call.
 **Severity:** the account disputed an invoice. No money moved.

@@ -4,7 +4,7 @@
 # somebody runs it when the figures are needed.
 source: portwell_ops
 taken_at: '2026-08-28T09:14:00Z'
-taken_by: P-DEC
+taken_by: Declan Byrne
 method: manual export
 row_counts:
   account: 10

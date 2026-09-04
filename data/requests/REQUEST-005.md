@@ -1,6 +1,6 @@
-# REQ-005: do pilot accounts resolve faster
+# REQUEST-005: do pilot accounts resolve faster
 
-**From:** Product, `P-ANA`
+**From:** Product, Ana Fialho
 **Received:** 2026-07-30
 **Needed by:** not stated
 

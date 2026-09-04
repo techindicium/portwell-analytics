@@ -6,7 +6,7 @@ type changes. Drops the table and rebuilds it from the model file.
 
     python3 project/rebuild.py deflection
 
-POL-06 says a destructive transformation requires a named approver. There is no --approver
+POLICY-06 says a destructive transformation requires a named approver. There is no --approver
 argument, and nothing here asks for one.
 """
 from __future__ import annotations
