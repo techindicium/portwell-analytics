@@ -4,7 +4,7 @@
 Used when a model changes shape and CREATE OR REPLACE is not enough, for example when a column
 type changes. Drops the table and rebuilds it from the model file.
 
-    python3 project/rebuild.py deflection
+    python3 project/rebuild.py self-service
 
 POLICY-06 says a destructive transformation requires a named approver. There is no --approver
 argument, and nothing here asks for one.

@@ -1,28 +1,28 @@
 # contract: metric-definitions
 # owner: Sofia Marques
 # published_at: 2026-08-20
-# note: This file is the source. Assist engineering and Reporting both consume it. Consumers
+# note: This file is the source. Portal engineering and Reporting both consume it. Consumers
 #       are expected to pin a version. Nothing checks that they do.
 
 metrics:
-  - name: deflection_rate
+  - name: self_service_rate
     version: 3
     definition: >
       Share of tickets in the period closed without a human authoring the answer body.
     grain: account-day
-    numerator: tickets where proposal_sent is true and human_edit_material is false
+    numerator: tickets where suggestion_sent is true and human_edit_material is false
     denominator: tickets closed in the period
     excludes: tickets reopened within 48 hours
     owner: Sofia Marques
     effective_from: 2026-07-01
     supersedes: 2
 
-  - name: deflection_rate
+  - name: self_service_rate
     version: 2
     definition: >
       Share of tickets in the period closed without a human authoring the answer body.
     grain: account-day
-    numerator: tickets where proposal_sent is true
+    numerator: tickets where suggestion_sent is true
     denominator: tickets closed in the period
     excludes: nothing
     owner: Sofia Marques
@@ -39,10 +39,10 @@ metrics:
     effective_from: 2026-02-01
     minimum_denominator: 20
 
-  - name: proposal_acceptance_rate
+  - name: suggestion_acceptance_rate
     version: 1
     definition: >
-      Share of proposals sent without material edit, of proposals created.
+      Share of suggestions sent without material edit, of suggestions created.
     grain: account-period
     owner: Sofia Marques
     effective_from: 2026-06-15

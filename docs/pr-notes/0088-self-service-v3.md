@@ -1,18 +1,18 @@
-# Change note 0088: deflection definition version 3
+# Change note 0088: self-service definition version 3
 
 **Merged:** 2026-06-27, effective 2026-07-01. **Author:** Sofia Marques. **Reviewer:** Declan Byrne.
 
 ## What changed
 
-`deflection_rate` version 3 replaces version 2 in `project/metrics/metric-definitions.yaml`.
+`self_service_rate` version 3 replaces version 2 in `project/metrics/metric-definitions.yaml`.
 
-Version 2 counted every proposal that was sent. Version 3 counts a proposal only where a human
+Version 2 counted every suggestion that was sent. Version 3 counts a suggestion only where a human
 did not materially edit the answer, and excludes tickets reopened within 48 hours.
 
 ## Why
 
-Version 2 counted a sent proposal as a deflection even when an agent rewrote the answer before
-it went out. That is not deflection, it is a draft.
+Version 2 counted a sent suggestion as a self-service even when an agent rewrote the answer before
+it went out. That is not self-service, it is a draft.
 
 ## Testing
 
@@ -20,7 +20,7 @@ The definition file is data. There is nothing to test.
 
 ## What was not done
 
-The mart was not updated. `marts/deflection.sql` still sums `is_deflected`, which is the
+The mart was not updated. `marts/self_service.sql` still sums `is_self_served`, which is the
 version 2 rule. This was noticed and left, because the packs for June had already gone out on
 version 2 and changing the mart mid-period would have made two months incomparable.
 

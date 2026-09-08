@@ -11,8 +11,8 @@ August packs. Share of tickets handled without a person."
 
 ## Notes
 
-Not sure whether this is the same thing as deflection or something different. Henrik calls it
-automation rate. Lucia calls it deflection. Nobody has asked them whether they mean the same
+Not sure whether this is the same thing as self-service or something different. Henrik calls it
+automation rate. Lucia calls it self-service. Nobody has asked them whether they mean the same
 number.
 
 Answering it separately would be quicker than finding out.

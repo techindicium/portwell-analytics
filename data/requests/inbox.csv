@@ -1,12 +1,12 @@
 request_id,from_team,requester,received,needed_by,status,summary
-REQUEST-004,Reporting,Lucia Ferreira,2026-07-28,2026-08-05,done,Deflection per account for the July packs
+REQUEST-004,Reporting,Lucia Ferreira,2026-07-28,2026-08-05,done,Self-service per account for the July packs
 REQUEST-005,Product,Ana Fialho,2026-07-30,,Open,Whether pilot accounts resolve faster than non-pilot
 REQUEST-006,Reporting,Lucia Ferreira,2026-08-03,2026-08-05,DONE,SLA attainment per Enterprise account for July
-REQUEST-007,Reporting,Lucia Ferreira,2026-08-11,2026-09-04,open,Deflection per account for the August packs
-REQUEST-008,Assist engineering,Kofi Adjei,2026-08-12,,in progress,Ticket volume by area so routing can be weighted
+REQUEST-007,Reporting,Lucia Ferreira,2026-08-11,2026-09-04,open,Self-service per account for the August packs
+REQUEST-008,Portal engineering,Kofi Adjei,2026-08-12,,in progress,Ticket volume by area so routing can be weighted
 REQUEST-009,Product,Gabriela Rocha,2026-08-14,2026-08-29,closed,A number for the Nordkai renewal conversation
 REQUEST-010,Product,Ana Fialho,2026-08-17,,Open,Adoption measures for the launch decision
 REQUEST-011,Reporting,Henrik Sole,2026-08-18,2026-09-04,open,Automation rate per account for the August packs
-REQUEST-012,Assist engineering,Mei Tan,2026-08-21,,open,How often a proposal is edited before sending
+REQUEST-012,Portal engineering,Mei Tan,2026-08-21,,open,How often a suggestion is edited before sending
 REQUEST-013,Reporting,Lucia Ferreira,2026-08-24,2026-09-04,In Progress,Escalations open at month end per Enterprise account
-REQUEST-014,Product,Ana Fialho,2026-08-26,,open,Does deflection differ by product area
+REQUEST-014,Product,Ana Fialho,2026-08-26,,open,Does self-service differ by product area

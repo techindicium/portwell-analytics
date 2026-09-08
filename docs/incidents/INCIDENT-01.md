@@ -5,8 +5,8 @@
 
 ## What happened
 
-An Assist proposal answering a billing question quoted a 30-day refund window. The current
-window is 60 days. The proposal was sent without a human reading it.
+An portal suggestion answering a billing question quoted a 30-day refund window. The current
+window is 60 days. The suggestion was sent without a human reading it.
 
 The 30-day figure came from a published knowledge article. That article had been superseded
 months earlier by a newer one carrying the correct window. Both were published. Both were

@@ -47,7 +47,7 @@ def load_extract(con: duckdb.DuckDBPyConnection) -> None:
     text_columns = {
         "ticket": ["opened_at"],
         "interaction": ["occurred_at"],
-        "proposal": ["created_at"],
+        "suggestion": ["created_at"],
     }
     con.execute("CREATE SCHEMA IF NOT EXISTS ops;")
     for csv_path in sorted(EXTRACT.glob("*.csv")):

@@ -6,7 +6,7 @@ What this team consumes, what it publishes, and what it verifies about either.
 
 | From | What | How it arrives | What this team verifies about it |
 | :- | :- | :- | :- |
-| Assist engineering | The operational database | `ATTACH` read-only over the file at `../portwell-assist/data/portwell_ops.db` | That it exists. Nothing about its freshness or its schema. |
+| Portal engineering | The operational database | `ATTACH` read-only over the file at `../portwell-assist/data/portwell_ops.db` | That it exists. Nothing about its freshness or its schema. |
 
 The attach is read-only and DuckDB enforces it. That is a real boundary, and it is the only one.
 
@@ -18,9 +18,9 @@ column rename upstream surfaces as a failed build, which is late but visible. A 
 
 | To | What | Contract | What breaks when it slips |
 | :- | :- | :- | :- |
-| Assist engineering | `metric-definitions.yaml` | Versioned metric definitions | The service serves an unpinned latest, so a version change moves a customer-facing number |
+| Portal engineering | `metric-definitions.yaml` | Versioned metric definitions | The service serves an unpinned latest, so a version change moves a customer-facing number |
 | Reporting | `metric-definitions.yaml` | Same file | Pack figures are computed under whichever version was current when the pack was built |
-| Reporting | `marts.deflection`, `marts.sla_attainment`, `marts.first_response_p50` | None declared | Pack figures silently change shape or meaning |
+| Reporting | `marts.self_service`, `marts.sla_attainment`, `marts.first_response_p50` | None declared | Pack figures silently change shape or meaning |
 
 The third row is the gap. Reporting reads the marts, and there is no declared contract for
 them: no column list, no types, no statement of what the grain is, and no version.

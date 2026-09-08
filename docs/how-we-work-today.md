@@ -49,7 +49,7 @@ number looks like last month's.
 > Analytics lead, on the request queue.
 
 > "We changed the definition. Nobody was told, because there is no list of who to tell."
-> Analytics lead, on the deflection incident.
+> Analytics lead, on the self-service incident.
 
 ## The read-only boundary, which is the one thing that is enforced
 

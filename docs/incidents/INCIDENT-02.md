@@ -5,16 +5,16 @@
 
 ## What happened
 
-An Assist proposal answered an integrations question by advising the customer to disable a
+An portal suggestion answered an integrations question by advising the customer to disable a
 webhook retry. The customer did. Their inbound feed depended on that retry to survive a
 transient failure at their end, so the next transient failure dropped the messages instead of
 retrying them.
 
-The proposal was sent without a human reading it.
+The suggestion was sent without a human reading it.
 
 ## What was checked before it went out
 
-The proposal's confidence was high, and the answer was consistent with the knowledge article it
+The suggestion's confidence was high, and the answer was consistent with the knowledge article it
 came from. The article was current and correctly sourced. The article was not wrong.
 
 ## What nobody checked

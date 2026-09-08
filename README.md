@@ -4,8 +4,8 @@ The DDLC track repository for **Advanced SDLC and harness engineering**. Four gr
 build one system here across four weekly modules, and the track submits one integrated group
 pull request per group per week.
 
-This repository is not the Portwell Assist product. It is the delivery system that produces the
-DDLC lifecycle artifact for Assist.
+This repository is not the help portal product. It is the delivery system that produces the
+DDLC lifecycle artifact for the help portal.
 
 > **Start with [`STUDENT-GUIDE.md`](STUDENT-GUIDE.md).** It carries the setup, the map, the
 > lifecycle commands, a worked change, and what each week must deliver. This README is the

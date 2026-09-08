@@ -1,15 +1,15 @@
-# INCIDENT-03: the deflection number moved and nobody could say why
+# INCIDENT-03: the self-service number moved and nobody could say why
 
 **Written:** 2026-08-06, by the analytics lead.
 **Severity:** a customer asked a question the team could not answer for two days.
 
 ## What happened
 
-Sunder Retail Supply saw their deflection figure change between the June and July service
+Sunder Retail Supply saw their self-service figure change between the June and July service
 review packs. They asked why. `TICKET-004424` is that question.
 
-The figure moved because the `deflection_rate` definition went from version 2 to version 3 on
-2026-07-01. Version 2 counted every proposal that was sent. Version 3 counts only proposals a
+The figure moved because the `self_service_rate` definition went from version 2 to version 3 on
+2026-07-01. Version 2 counted every suggestion that was sent. Version 3 counts only suggestions a
 human did not materially edit, and excludes tickets reopened within 48 hours. The account's
 behaviour did not change. The measure did.
 
@@ -22,7 +22,7 @@ The new definition was reviewed and agreed. It is better than the old one.
 Who was already consuming the old one. There is no list. Three things were:
 
 - The service review packs, which had already gone out with June figures on version 2.
-- The Assist service, which serves the metric on request and pins no version.
+- The help portal, which serves the metric on request and pins no version.
 - A board slide from `REQUEST-005`.
 
 `POLICY-05` says a definition change is announced one reporting period before it takes effect.
@@ -34,7 +34,7 @@ The customer was given an explanation two days later. Nothing was changed.
 
 ## What would have caught it
 
-A list of consumers per metric. It does not exist. `ISSUE-13` in the Assist engineering backlog
+A list of consumers per metric. It does not exist. `ISSUE-13` in the Portal engineering backlog
 reports the same problem from the consumer end, and neither team has the whole picture.
 
 ## Open

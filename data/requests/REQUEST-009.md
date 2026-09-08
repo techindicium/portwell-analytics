@@ -11,7 +11,7 @@
 ## Notes
 
 Marked closed. What was actually sent was a first-response median for August only, which is
-the month Assist was most active on that account.
+the month the portal was most active on that account.
 
 `POLICY-11` allows quoting an observed p50 where the account has more than 20 closed tickets.
 Nordkai has 97, so the figure was allowed. Whether one favourable month is the right window
