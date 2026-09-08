@@ -7,7 +7,7 @@ WITH first_out AS (
         i.ticket_id,
         min(i.occurred_at) AS first_outbound_at
     FROM staging.interactions i
-    WHERE i.actor IN ('agent', 'assist')
+    WHERE i.actor IN ('agent', 'portal')
     GROUP BY i.ticket_id
 )
 SELECT

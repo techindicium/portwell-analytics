@@ -10,7 +10,7 @@ metrics:
     definition: >
       Share of tickets in the period closed without a human authoring the answer body.
     grain: account-day
-    numerator: tickets where suggestion_sent is true and human_edit_material is false
+    numerator: tickets where proposal_sent is true and human_edit_material is false
     denominator: tickets closed in the period
     excludes: tickets reopened within 48 hours
     owner: Sofia Marques
@@ -22,7 +22,7 @@ metrics:
     definition: >
       Share of tickets in the period closed without a human authoring the answer body.
     grain: account-day
-    numerator: tickets where suggestion_sent is true
+    numerator: tickets where proposal_sent is true
     denominator: tickets closed in the period
     excludes: nothing
     owner: Sofia Marques
