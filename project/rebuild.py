@@ -19,7 +19,7 @@ import duckdb
 ROOT = Path(__file__).resolve().parents[1]
 WAREHOUSE = ROOT / "warehouse.duckdb"
 MARTS = ROOT / "project" / "models" / "marts"
-OPS_DB = ROOT.parent / "portwell-assist" / "data" / "portwell_ops.db"
+OPS_DB = ROOT.parent / "portwell-portal" / "data" / "portwell_ops.db"
 
 
 def main() -> int:

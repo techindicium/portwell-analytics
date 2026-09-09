@@ -28,7 +28,7 @@ import duckdb
 
 ROOT = Path(__file__).resolve().parents[1]
 WAREHOUSE = ROOT / "warehouse.duckdb"
-OPS_DB = ROOT.parent / "portwell-assist" / "data" / "portwell_ops.db"
+OPS_DB = ROOT.parent / "portwell-portal" / "data" / "portwell_ops.db"
 MODELS = ROOT / "project" / "models"
 TESTS = ROOT / "project" / "tests"
 EXTRACT = ROOT / "data" / "ops-extract"

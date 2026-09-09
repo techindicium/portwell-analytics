@@ -56,7 +56,7 @@ number looks like last month's.
 The warehouse attaches the operational database read-only:
 
 ```sql
-ATTACH '../portwell-assist/data/portwell_ops.db' AS ops (TYPE sqlite, READ_ONLY);
+ATTACH '../portwell-portal/data/portwell_ops.db' AS ops (TYPE sqlite, READ_ONLY);
 ```
 
 A write against `ops` fails. That is the only constraint in this repository that anything

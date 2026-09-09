@@ -6,7 +6,7 @@ What this team consumes, what it publishes, and what it verifies about either.
 
 | From | What | How it arrives | What this team verifies about it |
 | :- | :- | :- | :- |
-| Portal engineering | The operational database | `ATTACH` read-only over the file at `../portwell-assist/data/portwell_ops.db` | That it exists. Nothing about its freshness or its schema. |
+| Portal engineering | The operational database | `ATTACH` read-only over the file at `../portwell-portal/data/portwell_ops.db` | That it exists. Nothing about its freshness or its schema. |
 
 The attach is read-only and DuckDB enforces it. That is a real boundary, and it is the only one.
 
